@@ -25,7 +25,7 @@ Edited by @lazykuna, Original skin: HCZ Material theme
 
 ### Main page (random pics)
 * Edit `_data/home.json` and add proper image file in `static/img/home`
-* Add your own nice lab pics! Grayscale image is suggested for heterogenity.
+* Add your own nice lab pics! Grayscale image is suggested for unity.
 
 ### Member page
 * Edit `_member/(own name).md` to express your own current position, interest, or something else.
