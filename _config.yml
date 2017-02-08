@@ -11,7 +11,7 @@ about: By @lazykuna
 
 #baseurl: "http://biohealth.snu.ac.kr"
 #url: "http://biohealth.snu.ac.kr"
-baseurl: "."
+baseurl: ""
 url: "http://biohealth.snu.ac.kr"
 
 disqus_shortname: aboutashu
