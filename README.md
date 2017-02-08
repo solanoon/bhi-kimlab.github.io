@@ -6,7 +6,7 @@ Edited by @lazykuna, Original skin: HCZ Material theme
 
 ### Demo
 * [http://biohealth.snu.ac.kr/](BHI Lab)
-* [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
+* Original: [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
 
 #### Feature
 
@@ -21,12 +21,29 @@ Edited by @lazykuna, Original skin: HCZ Material theme
 
 ![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
 
-#### How to edit
+## How to edit contents
 
-* Basic pages are existing in `*.md` file format (which is going to be converted into html file)
-* People information is existing in `_people` folder.
-* Recent news (like publications or something ...) is in `_posts` folder.
-* news layout is in `news/index.html`.
-* Menu(urls), Publications, Projects lists are in `_data` folder (in json format).
-* All layouts are in `_layout` folder in html format, and basic templates are in `_include` folder.
-* Generated result with `jekyll build` is in `_site` folder.
+### Main page (random pics)
+* Edit `_data/home.json` and add proper image file in `static/img/home`
+* Add your own nice lab pics! Grayscale image is suggested for heterogenity.
+
+### Member page
+* Edit `_member/(own name).md` to express your own current position, interest, or something else.
+  - `title` : Your own name
+  - `type` : Only ms/phd/msphd/assistant allowed.
+  - `contact` : Your own email or phone.
+  - `tag` : Proper tag shows your written journals.
+  - You can write your interest or something else at the end of the file.
+* Pictures should be uploaded at `static/img/member`.
+* You can make your own file(page) if not exists.
+
+### Papers
+* Edit `_data/publications.json`
+* Contains 4 types: international / conference / domestic / book
+  - `title` : title to be displayed
+  - `year` : written year
+  - `author` : your own signature(name), and BE CAREFUL - THIS LINKS TO YOUR JOURNAL LIST, so try not to make name duplicated.
+
+### News
+* Create file at `_posts` directory.
+  - file name must be `(year)-(month)-(day)-(name).md`
