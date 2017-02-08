@@ -42,8 +42,26 @@ Edited by @lazykuna, Original skin: HCZ Material theme
 * Contains 4 types: international / conference / domestic / book
   - `title` : title to be displayed
   - `year` : written year
-  - `author` : your own signature(name), and BE CAREFUL - THIS LINKS TO YOUR JOURNAL LIST, so try not to make name duplicated.
+  - `author` : your own signature(name), and *THIS LINKS TO YOUR JOURNAL LIST*, so try not to make name duplicated.
 
 ### News
 * Create file at `_posts` directory.
   - file name must be `(year)-(month)-(day)-(name).md`
+
+## Using Git
+
+* First, clone files from repository (of course, you should have git account)
+```
+git clone "https://github.com/bhi-kimlab/bhi-kimlab.github.io"
+```
+
+* After doing proper editing, push modifications like this:
+```
+git commit -am "(enter summary about what you edited)"
+git push origin master
+```
+  You can check your modification at [here](http://bhi-kimlab.github.io)
+
+* After your modification end, merge it into master branch. then biohealth server will automatically reflect your editing.
+
+* I suggest modifying in another branch, not directly pushing directly in `master` branch.
