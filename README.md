@@ -2,7 +2,7 @@
 
 This is a simple personal material theme, best suited for Labortary.
 
-Edited by @lazykuna, Original skin: HCZ Material theme
+Edited by Dongwon Kang, Original skin: HCZ Material theme
 
 ### Demo
 * [http://biohealth.snu.ac.kr/](BHI Lab)
