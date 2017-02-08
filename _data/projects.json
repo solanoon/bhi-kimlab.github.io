@@ -18,7 +18,7 @@
 	},
 	{
 		"name": "PINTnet",
-		"image": "PINTnet.png",
+		"image": "PINTnet.PNG",
 		"url": "http://147.46.15.114:8080/",
 		"date": "-",
     "desc": "-",
@@ -34,7 +34,7 @@
 	},
 	{
 		"name": "TimeTP",
-		"image": "TimeTP.png",
+		"image": "TimeTP.PNG",
 		"url": "http://epigenomics.snu.ac.kr/TimeTP/index.html#loaded",
 		"date": "2016",
     "desc": "Influence maximization in time bounded network\
@@ -43,7 +43,7 @@
 	},
 	{
 		"name": "TimesVector",
-		"image": "TimesVector.png",
+		"image": "TimesVector.PNG",
 		"url": "http://epigenomics.snu.ac.kr/TimesVector/#",
 		"date": "2016",
     "desc": "A vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes",
@@ -59,7 +59,7 @@
 	},
 	{
 		"name": "ContextTRAP",
-		"image": "ContextTRAP.png",
+		"image": "ContextTRAP.PNG",
 		"url": "http://epigenomics.snu.ac.kr/contextTRAP/",
 		"date": "2016",
     "desc": "ContextTRAP is novel approach for prioritizing pathways by utilizing both results from pathway analysis tools and the literature information.",
@@ -67,7 +67,7 @@
 	},
 	{
 		"name": "TRAP",
-		"image": "TRAP.png",
+		"image": "TRAP.PNG",
 		"url": "http://epigenomics.snu.ac.kr/TRAP/index.html",
 		"date": "2014",
     "desc": "Time-series RNA-seq Analysis Package",
@@ -88,21 +88,5 @@
 		"date": "-",
     "desc": "A novel computational method to measure spliceome level intra-tumor heterogeneity (sITH) in breast cancer",
 		"tags": ["Heterogenity","Breast Cancer"]
-	},
-	{
-		"name": "biovlab_mcpg_snp_express",
-		"image": "",
-		"url": "http://bhi2.snu.ac.kr:3000/",
-		"date": "-",
-    "desc": "-",
-		"tags": []
-	},
-	{
-		"name": "tfnetwork_lasso",
-		"image": "",
-		"url": "http://biohealth.snu.ac.kr/software/tfnetwork_lasso/",
-		"date": "-",
-    "desc": "-",
-		"tags": []
 	},
 ]
