@@ -37,3 +37,5 @@ collections:
     output: true
 # to render page list
 paginate_path: news/page:num/
+
+keep_files: [software]
