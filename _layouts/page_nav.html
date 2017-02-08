@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include meta.html %}
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+      {% include css.html %}
+  </head>
+
+  <body class="home overflow-hidden">
+    {% include header.html %}
+    <div class="container main outer">
+      <div class="inner">
+        <div class="leftCol" id="leftCol">
+          {% include sidemenu.html %}
+        </div>
+        <div class="rightCol">
+          <div class="well content" id="nav_content" data-spy="scroll" data-target="#sidebar" data-offset=50>
+            {% if page.subtitle %}
+            <h4 class="home-subtitle">{{ page.subtitle }}</h4>
+            {% endif %}
+            {{ content }}
+          </div> <!-- end well -->
+
+          <div class="row">
+            <div class="col-md-12 col-xs-12 footer">
+              {% include footer.html %}
+            </div>
+          </div> <!-- end footer -->
+
+        </div> <!-- end /.col-md-9 -->
+      </div> <!-- end /.row -->
+    </div> <!-- end container -->
+
+    {% include js.html %}
+    {% include analytics.html %}
+  </body>
+</html>

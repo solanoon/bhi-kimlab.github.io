@@ -1,0 +1,24 @@
+<div id="menu" class="nav navbar-nav navbar-collapse collapse menu menu_top" aria-expanded="false">
+<!-- COMMENT: removed navbar-collapse from class -->
+	<!-- TODO: upper/floating menu in here -->
+	<ul class="nav navbar-nav {{ page.layout }}">
+	{% for i in site.data.urls %}
+		{% assign current = nil %}
+		{% assign pageurl = page.url | split:'/' | last %}
+		{% assign menuurl = i.url | split:'/' | last %}
+		{% assign linkurl = nil %}
+		{% if i.url contains '://' %}
+		{% assign linkurl = i.url %}
+		{% else %}
+		{% assign linkurl = i.url | prepend: site.baseurl %}
+		{% endif %}
+		{% assign target = i.target %}
+		{% unless target %} {% assign target = '_self' %} {% endunless %}
+		{% if pageurl == menuurl or page.layout == i.layout %} {% assign current = 'current-menu-item' %} {% endif %}
+		<li class="{{ current }} {{ pageurl }}"><a href="{{ linkurl }}" target="{{ target }}">
+			<i class="fa {{ i.icon }}"></i>
+			<span class="text">{{ i.text }}</span>
+		</a></li>
+	{% endfor %}
+	</ul>
+</div>

@@ -1,0 +1,37 @@
+# basic information about site
+# refered as: site.{attr}
+
+title: BHI Lab
+description: Bio and Health Informatics Lab
+author: Seoul National University
+logo: /static/img/bhi_logo_menu.png
+logoonly: true
+github: "#"
+about: By @lazykuna
+
+baseurl: "http://biohealth.snu.ac.kr"
+url: "http://biohealth.snu.ac.kr"
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
+
+# we need declare collection to render peoples
+collections:
+  members:
+    output: true
+# to render page list
+paginate_path: news/page:num/

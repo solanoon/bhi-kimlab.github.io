@@ -1,1 +1,66 @@
-"hello world"
+---
+layout: default
+bodyclass: "body_intro"
+---
+<div class="bg-cover intro_bg" id="bg">
+  {% if site.data.home.show_img %}
+  <ul id="bg_list" style="display:none;">
+  {% for bg in site.data.home.imgs %}
+    <li>
+      <img data-src="{{ site.baseurl }}/static/img/home/{{ bg.img }}">
+      <p>{{ bg.desc }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+
+<div class="intro_navigator">
+  <p class="hometitle">{{ site.data.home.title }}</p>
+  <p class="subtitle">{{ site.data.home.subtitle }}</p>
+  {% if site.data.home.show_img %}
+  <p class="bg_desc" id="bg_desc"></p>
+  {% endif %}
+</div>
+
+<div class="well">
+  <!-- 3 types of actions ... -->
+  <div class="row intro">
+    <div class="col-sm-3">
+      <a href="{{ site.baseurl }}/about/">
+      <div class="img">
+        <img src="{{ site.baseurl }}/static/img/home_projects.png">
+      </div>
+      <h3>About</h3>
+      <p>See our goals and research topics</p>
+      </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="{{ site.baseurl }}/members/">
+      <div class="img">
+        <img src="{{ site.baseurl }}/static/img/home_members.jpg">
+      </div>
+      <h3>Members</h3>
+      <p>See Lab members</p>
+      </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="{{ site.baseurl }}/publications/">
+      <div class="img">
+        <img src="{{ site.baseurl }}/static/img/home_publications.gif">
+      </div>
+      <h3>Publications</h3>
+      <p>See publications</p>
+      </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="{{ site.baseurl }}/contact/">
+      <div class="img">
+        <img src="{{ site.baseurl }}/static/img/home_contact.gif">
+      </div>
+      <h3>Contact</h3>
+      <p>Get in touch with members</p>
+      </a>
+    </div>
+  </div>
+</div><!-- end #home -->

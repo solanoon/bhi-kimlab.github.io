@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="post-content well">
+<div class="title_wrapper">
+  <h3 class="title">{{ page.title }}</h3>
+</div>
+<div class="row">
+  <div class="col-md-3 col-sm-4">
+    <div class="bg-cover member_img" style="background-image: url({{ site.baseurl }}/static/img/member/{{ page.img }}) !important;">
+      <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png">
+    </div>
+    <p>{{ page.brief }}</p>
+    <p>{{ page.contact }}</p>
+  </div>
+  <div class="col-md-9 col-sm-8">
+    <article class="content">
+      <div class="post">{{ content }}</div>
+    </article>
+  </div>
+</div>
+</div>

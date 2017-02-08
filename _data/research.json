@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Complete Omics",
+    "img": "proj_1.jpg",
+    "desc": "New bioinformatics research paradigm that combines omics and network data<br>\
+오믹스와 네트워크 데이터를 결합한 새로운 생물정보 기법 개발<br>\
+Complete omics는 유전체, 후선유전체 인자들의 오믹스 데이터를 결합하여 데이터 기반 네트웤을 구성하고 기존의 생물정보 네트워크 데이터를 결합한 새로운 생물정보 연구 기법 개발하는 것이다.<br>\
+오믹스 데이터 결합은 새로운 기계학습 기법을 개발, 적용하여 구성한다. 현재 연구의 중점은 다음과 같다.<br>\
+1. microRNA와 유전체 오믹스 정보를 결합하여 표현 형질특성을 구별하는 네트웤 구성.<br>\
+2. 전사인자, 염기서열 메틸화, 유전자 발현 오믹스 정보를 결합하여 표현 형질특성을 구별하는 네트웤 구성. 특히 전사인자의 구성에 필요한 오믹스 테이터 생산을 위해 염기서열 메틸화, 유전자 발현 오믹스 정보 분석을 통해 어는 전사인자 오믹스 데이터를 측정할 것 인지를 예측해주는 단계를 포함한 전산+생물실험 기법을 통합한 새로운 테이터 마이닝 기법을 개발한는데 연구의 중점을 둔다.",
+  },
+  {
+    "title": "Cloud Computing",
+    "img": "proj_2.gif",
+    "desc": "BioVlab : Bioinformatics infrastructure coupling graphical workflow compose and cloud computing<br>\
+그래피컬 워크플로어 컴포져와 클라우드 컴퓨팅을 연계한 생물정보 인프라 구축. 특히 Gateway를 이용하여 인터넷에 있는 다양한 생물정보 자원들을 특정 연구목적에 맟춤형 연구 환경을 구축한다.",
+  },
+  {
+    "title": "Epigenomics",
+    "img": "proj_3.gif",
+    "desc": "Cancer research that focuses on the dynamic nature of cancer cell using both genomics and epigenomics data<br>\
+유전체와 후성 유전체자료 통합 데이터를 이용한 암의 표현형질에 따른 특성 분석",
+  },
+  {
+    "title": "Deep Learning Genomics",
+    "img": "proj_4.gif",
+    "desc": "Classification and prediction using Deep Learning on genomics and epigenomics data",
+  },
+]

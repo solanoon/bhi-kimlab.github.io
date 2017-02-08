@@ -1,0 +1,20 @@
+    {% assign member=include.member %}
+    <div class="title_wrapper"><h3 class="title">Professor</h3></div>
+    <div class="row members">
+    <div class="member">
+      <div class="col-md-3 col-sm-3">
+        {% assign member_img="unknown.png" %}
+        {% if member.img %}{% assign member_img=member.img %}{% endif %}
+        <div class="bg-cover member_img" style="background-image: url({{ site.baseurl }}/static/img/member/{{ member_img }}) !important">
+          <a class="" href="..{{ member.url }}">
+          <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-9 col-sm-9">
+        <div class="member_desc"><span class="name"><a href="..{{ member.url }}">{{ member.title }}</a></span></div>
+        <div class="member_desc">{{ member.brief }}</div>
+        <div class="member_desc">{{ member.contact }}</div>
+      </div>
+    </div> <!-- member -->
+    </div> <!-- members row -->

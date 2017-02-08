@@ -1,0 +1,42 @@
+---
+layout: page_nav
+---
+
+<article class="post">
+
+  <div class="post-content">
+    {{ content }}
+
+    <div class="pub_box">
+    {% for i in site.data.publications %}
+      {% assign name=i[0] %}
+      {% assign objid=i[0] | prepend: 'nav_' | slugify %}
+      {% assign publications=i[1] %}
+      <div class="title_wrapper">
+        <h3 class="title" id="{{ objid }}">{{ name }}</h3>
+      </div>
+      <!-- year_publication section start -->
+      {% assign pubs_year=publications | group_by:"year" %}
+      {% for pubs in pubs_year %}
+        <div class="title_pub_wrapper">
+          <h4 class="title_pub" id="{{ pubs.name | prepend: objid }}">{{ pubs.name | slugify }}</h3>
+        </div>
+        <ul class="publications">
+        {% for pub in pubs.items %}
+          <li>
+          <div class="pub">
+            <span class="name">{{ pub.title }}</span>
+            {% if pub.link %}
+            <a href="{{ pub.link }}" target="_blank">[Link]</a>
+            {% endif %}
+          </div>
+          </li>
+        {% endfor %}
+        </ul>
+      {% endfor %}
+      <!-- year_publication end -->
+    {% endfor %}
+    </div>
+  </div>
+
+</article>

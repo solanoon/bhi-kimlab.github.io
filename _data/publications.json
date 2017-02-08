@@ -1,0 +1,576 @@
+{
+  "international": [
+  {
+    "title": "Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. BMC Systems Biology, 2016 Dec 23",
+    "year": 2016,
+    "author": "Chae H, Lee S, Nephew KP, Kim S",
+  },
+  {
+    "title": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S. Clustering and evolutionary analysis of small RNAs identify regulatory siRNA clusters induced under drought stress in rice. BMC Systems Biology, 2016 Dec 23",
+    "year": 2016,
+    "author": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S",
+  },
+  {
+    "title": "Lee J, Jo K, Lee S, Kang J, Kim S. Prioritizing biological pathways by recognizing context in time-series gene expression data. BMC Bioinformatics, 2016 Dec 23",
+    "year": 2016,
+    "author": "Lee J, Jo K, Lee S, Kang J, Kim S",
+  },
+  {
+    "title": "Park Y, Lim S, Nam J, Kim S. Measuring intratumor heterogeneity by network entropy using RNA-seq data, Scientific Reports, 2016 Nov 24. ",
+    "year": 2016,
+    "author": "Park Y, Lim S, Nam J, Kim S",
+  },
+  {
+    "title": "Hur B, Lim S, Chae H, Seo S, Lee S, Kang J, Kim S. CLIP-GENE: a web service of the condition specific context-laid integrative analysis for gene prioritization in mouse TF knockout experiments. Biology Direct, 2016 Nov 1, 57.",
+    "year": 2016,
+    "author": "Hur B, Lim S, Chae H, Seo S, Lee S, Kang J, Kim S",
+  },
+  {
+    "title": "Lim S, Park Y, Hur B, Kim M, Han W, Kim S. Protein interaction network (PIN)-based breast cancer subsystem identification and activation measurement for prognostic modeling. Methods. 2016 Nov 1.",
+    "year": 2016,
+    "author": "Lim S, Park Y, Hur B, Kim M, Han W, Kim S",
+  },
+  {
+    "title": "Park J, Hur B, Rhee S, Lim S, Kim MS, Kim K, Han W, Kim S. Information theoretic sub-network mining characterizes breast cancer subtypes in terms of cancer core mechanisms. J Bioinform Comput Biol. 2016 Oct;14(5):1644002.",
+    "year": 2016,
+    "author": "Park J, Hur B, Rhee S, Lim S, Kim MS, Kim K, Han W, Kim S",
+  },
+  {
+    "title": "Chae H, Lee S, Seo S, Jung D, Chang H, Nephew KP, Kim S. BioVLAB-mCpG-SNP-EXPRESS: A system for multi-level and multi-perspective analysis and exploration of DNA methylation, sequence variation (SNPs), and gene expression from multi-omics data. Methods. 2016 Jul 28.",
+    "year": 2016,
+    "author": "Chae H, Lee S, Seo S, Jung D, Chang H, Nephew KP, Kim S",
+  },
+  {
+    "title": "Jeong HM, Lee S, Chae H, Kim R, Kwon MJ, Oh E, Choi YL, Kim S, Shin YK. Efficiency of methylated DNA immunoprecipitation bisulphite sequencing for whole-genome DNA methylation analysis. Epigenomics. 2016 Jun 8(0).",
+    "year": 2016,
+    "author": "Jeong HM, Lee S, Chae H, Kim R, Kwon MJ, Oh E, Choi YL, Kim S, Shin YK",
+  },
+  {
+    "title": "Jo K, Jung IU, Moon JH, Kim S, Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways. Bioinformatics. 2016 32(12):i128-i136.",
+    "year": 2016,
+    "author": "Jo K, Jung IU, Moon JH, Kim S",
+  },
+  {
+    "title": "Kim MS, Hur B, Kim S. RDDpred: a condition-specific RNA-editing prediction model from RNA-seq data. BMC Genomics. 2016 17(Suppl 1):5.",
+    "year": 2016,
+    "author": "Kim MS, Hur B, Kim S",
+  },
+  {
+    "title": "Hur B, Chae HJ, Kim S. Combined analysis of gene regulatory network and SNP information enhances identification of potential gene markers in mouse knockout studies with small number of samples. BMC Medical Genomics. 2015 8(Suppl 2): S10.",
+    "year": 2015,
+    "author": "Hur B, Chae HJ, Kim S",
+  },
+  {
+    "title": "Sandhan T, Yoo YJ, Choi JY, Kim S., Graph Pyramid Approach for Protein Classification. BMC Medical Genomics. 2015 8(Suppl 2):S12.",
+    "year": 2015,
+    "author": "Sandhan T, Yoo YJ, Choi JY, Kim S",
+  },
+  {
+    "title": "Ryu H. Kim Y, Kang YS, Lee NY, Kim KY, Hwang YJ, Kim HW, Rhyu IJ, Her S, Jung MK, Kim S, Lee CJ, Ko S, Kowall NW, Lee SB, Lee J, Mir125a and Mir351 modulates autophagy associated with Ewsr1 deficiency., Autophagy, 2015 May 5",
+    "year": 2015,
+    "author": "Ryu H. Kim Y, Kang YS, Lee NY, Kim KY, Hwang YJ, Kim HW, Rhyu IJ, Her S, Jung MK, Kim S, Lee CJ, Ko S, Kowall NW, Lee SB, Lee JS",
+  },
+  {
+    "title": "Yerrapragada S, Shukla A, Hallsworth-Pepin K, Choi K, Wollam A, Clifton S, Qin X, Muzny D, Raghuraman S, Ashki H, Uzman A, Highlander SK, Fryszczyn BG, Fox GE, Tirumalai MR, Liu Y, Kim S, Kehoe DM, Weinstock GM., Extreme Sensory Complexity Encoded in the 10-Megabase Draft Genome Sequence of the Chromatically Acclimating Cyanobacterium Tolypothrix sp. PCC 7601.Genome Announc. 2015 May 7;3(3)",
+    "year": 2015,
+    "author": "Yerrapragada S, Shukla A, Hallsworth-Pepin K, Choi K, Wollam A, Clifton S, Qin X, Muzny D, Raghuraman S, Ashki H, Uzman A, Highlander SK, Fryszczyn BG, Fox GE, Tirumalai MR, Liu Y, Kim S, Kehoe DM, Weinstock GM",
+  },
+  {
+    "title": "Rhee S, Chae H, Kim S. PlantMirnaT: miRNA and mRNA integrated analysis fully utilizing characteristics of plant sequencing data. Methods. 2015 Jul 15;83:80-7.",
+    "year": 2015,
+    "author": "Rhee S, Chae H, Kim S",
+  },
+  {
+    "title": "Chae HJ, Rhee SM, Nephew KP, Kim S. BioVLAB-MMIA-NGS: MicroRNA-mRNA integrated analysis using high throughput sequencing data. Bioinformatics, 2014.",
+    "year": 2014,
+    "author": "Chae HJ, Rhee SM, Nephew KP, Kim S",
+  },
+  {
+    "title": "An JH, Kim KS, Chae HJ, Kim S, DegPack: A web package using a non-parametric and information theoretic algorithm to identify differentially expressed genes in multiclass RNA-seq samples, Methods, 2014.",
+    "year": 2014,
+    "author": "An JH, Kim KS, Chae HJ, Kim S",
+  },
+  {
+    "title": "Jo K, Kwon HB, Kim S. Time-series RNA-seq analysis package (TRAP) and its application to the analysis of rice, Oryza sativa L. ssp. Japonica, upon drought stress. Methods, 2014.",
+    "year": 2014,
+    "author": "Jo K, Kwon HB, Kim S",
+  },
+  {
+    "title": "Jung IU, Park JC, Kim S. piClust: A density based piRNA clustering algorithm. Computational Biology and Chemistry. 50. 60-67. 2014 Jan 23. doi: 10.1016/j.compbiolchem.2014.01.008.",
+    "year": 2014,
+    "author": "Jung IU, Park JC, Kim S",
+  },
+  {
+    "title": "Kim KY, Hwang YJ, Jung MK, Choe J, Kim Y, Kim S, Lee CJ, Ahn HK, Lee J, Kowall NW, Kim YK, Kim JI, Lee SB, Ryu H. A multifunctional protein EWS regulates the expression of Drosha and microRNAs. Cell Death Differ. 2013 Nov 1. doi: 10.1038/cdd.2013.144.",
+    "year": 2013,
+    "author": "Kim KY, Hwang YJ, Jung MK, Choe J, Kim Y, Kim S, Lee CJ, Ahn HK, Lee JS, Kowall NW, Kim YK, Kim JI, Lee SB, Ryu H",
+  },
+  {
+    "title": "Rhee J, Kim K, Chae H, Evans J, Yan P, Zhang B, Gray J, Spellman P, Huang T, Nephew K and Kim S. Integrated Analysis of Genome-wide DNA Methylation and Gene Expression Profiles in Molecular Subtypes of Breast Cancer, Nucleic Acids Res. 2013 July 2;41(18):8464-8474.doi: 10.1093/nar/gkt643",
+    "year": 2013,
+    "author": "Rhee J, Kim K, Chae H, Evans J, Yan P, Zhang B, Gray J, Spellman P, Huang T, Nephew K and Kim S",
+  },
+  {
+    "title": "Rhee SM, Park JW, and Kim S. Computational regulatory network construction from microRNA and transcription factor perspectives. ACM SIG Bio Record, Volume 3, Issue 3, May 2013 ISSN 2159-1210.",
+    "year": 2013,
+    "author": "Rhee SM, Park JW, Kim S",
+    "link": "http://dl.acm.org/citation.cfm?id=2500125"
+  },
+  {
+    "title": "Lee KY and Kim S, Designing Discriminative Spatial Filter Vectors in Motor Imagery Brain–Computer Interface, International Journal of Imaging Systems and Technology, Vol. 23, No. 2, 2013, 147–151.",
+    "year": 2013,
+    "author": "Lee KY and Kim S",
+  },
+  {
+    "title": "Chae HJ, Park, JW, Lee SW, Nephew KP, Kim S. Comparative Analysis Using K-mer and K-flank Patterns Provides Evidence for CpG Island Sequence Evolution in Mammalian Genomes, Nucleic Acids Res. 2013 May 1;41(9):4783-91.",
+    "year": 2013,
+    "author": "Chae HJ, Park, JW, Lee SW, Nephew KP, Kim S",
+  },
+  {
+    "title": "An JH, Kim KS, Rhee SM, Chae HJ, Nephew KP, Kim S. Genome-wide analysis and modeling of DNA methylation susceptibility in 30 breast cancer cell lines by using CpG flanking sequences. Journal of Bioinformatics and Computational Biology. 2013 Jun;11(3):1341003. doi: 10.1142/S0219720013410035.",
+    "year": 2013,
+    "author": "An JH, Kim KS, Rhee SM, Chae HJ, Nephew KP, Kim S",
+  },
+  {
+    "title": "Chae H, Jung I, Lee H, Marru S, Lee SW and Kim S. Bio and Health informatics meets Cloud : BioVLab as an example. Health Information Science and Systems 2013, 1:6",
+    "year": 2013,
+    "author": "Chae H, Jung I, Lee H, Marru S, Lee SW and Kim S",
+  },
+  {
+    "title": "Nam S, Long X, Kwon C, Kim S, Nephew KP. An integrative analysis of cellular contexts, miRNAs and mRNAs reveals network clusters associated with antiestrogen-resistant breast cancer cells. BMC Genomics. 2012 Dec 27;13:732.",
+    "year": 2012,
+    "author": "Nam S, Long X, Kwon C, Kim S, Nephew KP",
+  },
+  {
+    "title": "Rao X, Evans J, Chae H, Pilrose J, Kim S, Yan P, Huang RL, Lai HC, Lin H, Liu Y, Miller D, Rhee JK, Huang YW, Gu F, Gray JW, Huang TM, Nephew KP. CpG island shore methylation regulates caveolin-1 expression in breast cancer. Oncogene, 2012 Nov 5. doi: 10.1038/onc.2012.474.",
+    "year": 2012,
+    "author": "Rao X, Evans J, Chae H, Pilrose J, Kim S, Yan P, Huang RL, Lai HC, Lin H, Liu Y, Miller D, Rhee JK, Huang YW, Gu F, Gray JW, Huang TM, Nephew KP",
+  },
+  {
+    "title": "Lee H, Yang Y, Chae H, Nam S, Choi D, Tangchaisin P, Herath C, Marru S, Nephew K, Kim S. BioVLAB-MMIA: A Cloud Environment for microRNA andmRNA Integrated Analysis (MMIA) on Amazon EC2, IEEE Transactions on NanoBioscience, Volume 11, Issue 3, Sept. 2012 ISSN 1536-1241. doi:10.1109/TNB.2012.2212030",
+    "year": 2012,
+    "author": "Lee H, Yang Y, Chae H, Nam S, Choi D, Tangchaisin P, Herath C, Marru S, Nephew K, Kim S",
+  },
+  {
+    "title": "Pejaver VR, An J, Rhee SM, Bhan A, Choi JH, Liu B, Lee H, Brown PJ, Kysela D, Brun YV, Kim S. GeneclusterViz: a tool for conserved gene cluster visualization, exploration and analysis, Bioinformatics, 2012, 28(11), 1527-1529.",
+    "year": 2012,
+    "author": "Pejaver VR, An J, Rhee SM, Bhan A, Choi JH, Liu B, Lee H, Brown PJ, Kysela D, Brun YV, Kim S",
+  },
+  {
+    "title": "Gupta R, Kim S, Taylor MW. Suppression of ribosomal protein synthesis and protein translation factors by Peg-interferon alpha/ribavirin in HCV patients blood mononuclear cells (PBMC), Journal of Translational Medicince, 2012 10:54.",
+    "year": 2012,
+    "author": "Gupta R, Kim S, Taylor MW",
+  },
+  {
+    "title": "Yang Y, Nephew NP, Kim S. A Novel K-mer Mixture Logistic Regression for Methylation Susceptibility Modeling of CpG Dinucleotides in Human Gene Promoters, BMC Bioinformatics, 2012, 13(suppl 3) S15.",
+    "year": 2012,
+    "author": "Yang Y, Nephew NP, Kim S",
+  },
+  {
+    "title": "Hollenhorst PC, Ferris MW, Hull MA, Chae H, Kim S, Graves BJ. Oncogenic ETS proteins mimic activated RAS/MAPK signaling in prostate cells. Genes Dev. 2011 Oct 15;25(20):2147-57.",
+    "year": 2011,
+    "author": "Hollenhorst PC, Ferris MW, Hull MA, Chae H, Kim S, Graves BJ",
+  },
+  {
+    "title": "Choi KM and Kim S. Sequence-Based Enzyme Catalytic Domain Prediction Using Clustering and Aggregated Mutual Information Content. Journal of Bioinformatics and Computational Biology. Vol. 9, No. 5 (2011) 1–15 (IEEE HISB extended version)",
+    "year": 2011,
+    "author": "Choi KM and Kim S",
+  },
+  {
+    "title": "Pejaver V and Kim S. Gene Cluster Profile Vectors: a method to infer functionally related gene sets by grouping proximity-based gene clusters. BMC Genomics 2011, 12(Suppl 2):S2 (27 July 2011",
+    "year": 2011,
+    "author": "Pejaver V and Kim S",
+  },
+  {
+    "title": "Choi K, Kim S. Building Interacting Partner Predictors Using Co-varying Residue Pairs Between Histidine Kinase and Response Regulator Pairs of 48 Bacterial Two-Component Systems, Proteins, 2011 Apr;79(4):1118-31",
+    "year": 2011,
+    "author": "Choi K, Kim S",
+  },
+  {
+    "title": "Lu YK, Marden J, Han M, Swingley WD, Mastrian SD, Chowdhury SR, Hao J, Helmy T, Kim S, Kurdoglu AA, Matthies HJ, Rollo D, Stothard P, Blankenship RE, Bauer CE, Touchman JW. Metabolic flexibility revealed in the genome of the cyst-forming alpha-1 proteobacterium Rhodospirillum centenum. BMC Genomics. 2010 May 25;11:325.",
+    "year": 2010,
+    "author": "Lu YK, Marden J, Han M, Swingley WD, Mastrian SD, Chowdhury SR, Hao J, Helmy T, Kim S, Kurdoglu AA, Matthies HJ, Rollo D, Stothard P, Blankenship RE, Bauer CE, Touchman JW",
+  },
+  {
+    "title": "Kim S. Data mining for the study of disease genes and proteins, Artif Intell Med. (editorial) 2010 Jul;49(3):133-4.",
+    "year": 2010,
+    "author": "Kim S",
+  },
+  {
+    "title": "Choi JH, Li Y, Guo J, Kramer R, Rauch T, Macmil S, Wiley G, Bennett L, Schnabel J, Taylor K, Kim S, Dong X, Sreekumar A, Pfeifer G, Roe B, Caldwell C, Bhalla H, Shi H. Genome-wide DNA methylation maps in follicular lymphoma cells determined by methylation-enriched bisulfite sequencing, PLoS ONE, 2010 Sep 29;5(9)",
+    "year": 2010,
+    "author": "Choi JH, Li Y, Guo J, Kramer R, Rauch T, Macmil S, Wiley G, Bennett L, Schnabel J, Taylor K, Kim S, Dong X, Sreekumar A, Pfeifer G, Roe B, Caldwell C, Bhalla H, Shi H",
+  },
+  {
+    "title": "Rho M, Schaack S, Gao X, Kim S, Lynch M, Tang H. LTR retroelements in the genome of Daphnia pulex, BMC Genomics, 2010 Jul 9;11:425.",
+    "year": 2010,
+    "author": "Rho M, Schaack S, Gao X, Kim S, Lynch M, Tang H",
+  },
+  {
+    "title": "Yang Y, Gibert D., Kim S. Confidence Score for Genome Annotation: A Genome Comparison Approach Bioinformatics, 26:22-29, 2010",
+    "year": 2010,
+    "author": "Yang Y, Gibert D., Kim S.",
+  },
+  {
+    "title": "Li M, Balch C, Montgomery JS, Jeong MK, Chung JH, Yan P, Huang T H-M, Kim S, Nephew KP. Integrated Analysis of DNA Methylation and Gene Expression Reveals Specific Signaling Pathways Associated with Platinum Resistance in Ovarian Cancer BMC Medical Genomics, 2009, 2:34",
+    "year": 2009,
+    "author": "Li M, Balch C, Montgomery JS, Jeong MK, Chung JH, Yan P, Huang T H-M, Kim S, Nephew KP",
+  },
+  {
+    "title": "Rho M, Zhou M, Gao X, Kim S, Tang H, Lynch M. Independent Mammalian Genome Contractions Following the KT Boundary. Genome Biology and Evolution 2009:2",
+    "year": 2009,
+    "author": "Rho M, Zhou M, Gao X, Kim S, Tang H, Lynch M",
+  },
+  {
+    "title": "Nam S, Li M, Choi K, Balch C, Kim S, Nephew KP. MicroRNA and mRNA integrated analysis (MMIA): a web tool for examining biological functions of microRNA expression. Nucleic Acids Res. 2009 May 6.",
+    "year": 2009,
+    "author": "Nam S, Li M, Choi K, Balch C, Kim S, Nephew KP",
+  },
+  {
+    "title": "Xin F, Li M, Balch C, Thomson M, Fan M, Liu Y, Hammond SM, Kim S, Nephew KP. Computational Analysis of MicroRNA Profiles and Their Target Genes Suggests Significant Involvement in Breast Cancer Antiestrogen Resistance. Bioinformatics. 2009 Feb 15;25(4):430-4.",
+    "year": 2009,
+    "author": "Xin F, Li M, Balch C, Thomson M, Fan M, Liu Y, Hammond SM, Kim S, Nephew KP",
+  },
+  {
+    "title": "Hu M, Choi K, Su W, Kim S, Yang J. A Gene Pattern Mining Algorithm Using Mutable Sets for Prokaryotes. BMC Bioinformatics, 2008, 9:124",
+    "year": 2008,
+    "author": "Hu M, Choi K, Su W, Kim S, Yang J",
+  },
+  {
+    "title": "Choi JH, Kim S, Tang H, Andrews J, Gilbert DG, Colbourne JK. A machine-learning approach to combined evidence validation of genome assemblies. Bioinformatics. 2008 Mar 15;24(6):744-50.",
+    "year": 2008,
+    "author": "Choi JH, Kim S, Tang H, Andrews J, Gilbert DG, Colbourne JK",
+  },
+  {
+    "title": "Choi K, Kim S. ComPath: comparative enzyme analysis and annotation in pathway/subsystem contexts. BMC Bioinformatics. 2008 Mar 6;9:145.",
+    "year": 2008,
+    "author": "Choi K, Kim S",
+  },
+  {
+    "title": "Li M, Paik HI, Balch C, Kim Y, Li L, Huang TH, Nephew KP, Kim S. Enriched transcription factor binding sites in hypermethylated gene promoters in drug resistant cancer cells. Bioinformatics. 2008 Aug 15;24(16):1745-8.",
+    "year": 2008,
+    "author": "Li M, Paik HI, Balch C, Kim Y, Li L, Huang TH, Nephew KP, Kim S",
+  },
+  {
+    "title": "Kim S, Wang Z, Dalkilic M. iGibbs: improving Gibbs motif sampler for proteins by sequence clustering and iterative pattern sampling. Proteins. 2007 Feb 15;66(3):671-81.",
+    "year": 2007,
+    "author": "Kim S, Wang Z, Dalkilic M",
+  },
+  {
+    "title": "Rho M, Choi JH, Kim S, Lynch M, Tang H. De novo identification of LTR retrotransposons in eukaryotic genomes. BMC Genomics. 2007 Apr 3;8:90.",
+    "year": 2007,
+    "author": "Rho M, Choi JH, Kim S, Lynch M, Tang H",
+  },
+  {
+    "title": "Bae SH, Tang H, Wu J, Xie J, Kim S. dPattern: transcription factor binding site (TFBS) discovery in human genome using a discriminative pattern analysis. Bioinformatics. 2007 Oct 1;23(19):2619-21.",
+    "year": 2007,
+    "author": "Bae SH, Tang H, Wu J, Xie J, Kim S",
+  },
+  {
+    "title": "Hemmerich C, Kim S. A Study of Residue Correlation within Protein Sequences and Its Application to Sequence Classification. EURASIP J Bioinform Syst Biol. 2007:87356.",
+    "year": 2007,
+    "author": "Hemmerich C, Kim S",
+  },
+  {
+    "title": "Tsukahara T, Kim S, Taylor MW. REFINEMENT: a search framework for the identification of interferon-responsive elements in DNA sequences--a case study with ISRE and GAS. Comput Biol Chem. 2006 Apr;30(2):134-47.",
+    "year": 2006,
+    "author": "Tsukahara T, Kim S, Taylor MW",
+  },
+  {
+    "title": "Wei SH, Balch C, Paik HH, Kim YS, Baldwin RL, Liyanarachchi S, Li L,Wang Z. Wan JC, Davuluri RV, Karlan BY, Gifford G, Brown R, Kim S, Huang TH, Nephew KP.  Prognostic DNA methylation biomarkers in ovarian cancer. Clin Cancer Res. 2006 May 1;12(9):2788-94.",
+    "year": 2006,
+    "author": "Wei SH, Balch C, Paik HH, Kim YS, Baldwin RL, Liyanarachchi S, Li L,Wang Z. Wan JC, Davuluri RV, Karlan BY, Gifford G, Brown R, Kim S, Huang TH, Nephew KP",
+  },
+  {
+    "title": "Li L, Cheng AS, Jin VX, Paik HH, Fan M, Li X, Zhang W, Robarge J, Balch C, Davuluri RV, Kim S, Huang TH, Nephew KP. A mixture model-based discriminate analysis for identifying ordered transcription factor binding site pairs in gene promoters directly regulated by estrogen receptor-alpha. Bioinformatics. 2006 Sep 15;22(18):2210-6.",
+    "year": 2006,
+    "author": "Li L, Cheng AS, Jin VX, Paik HH, Fan M, Li X, Zhang W, Robarge J, Balch C, Davuluri RV, Kim S, Huang TH, Nephew KP",
+  },
+  {
+    "title": "Song B, Choi JH, Chen G, Szymanski J, Zhang GQ, Tung AK, Kang J, Kim S, Yang J. ARCS: an aggregated related column scoring scheme for aligned sequences. Bioinformatics. 2006 Oct 1;22(19):2326-32.",
+    "year": 2006,
+    "author": "Song B, Choi JH, Chen G, Szymanski J, Zhang GQ, Tung AK, Kang J, Kim S, Yang J",
+  },
+  {
+    "title": "Kim S, Choi JH, Saple A, Yang J. A hybrid gene team model and its application to genome analysis. J Bioinform Comput Biol. 2006 Apr;4(2):171-96.",
+    "year": 2006,
+    "author": "Kim S, Choi JH, Saple A, Yang J",
+  },
+  {
+    "title": "Kim S, Lee J. BAG: a graph theoretic sequence clustering algorithm. Int J Data Min Bioinform. 2006;1(2):178-200.",
+    "year": 2006,
+    "author": "Kim S, Lee J",
+  },
+  {
+    "title": "Lee D, Choi JH, Dalkilic MM, Kim S. COMPAM :visualization of combining pairwise alignments for multiple genomes. Bioinformatics. 2006 Jan 15;22(2):242-4.",
+    "year": 2006,
+    "author": "Lee D, Choi JH, Dalkilic MM, Kim S",
+  },
+  {
+    "title":  "Nobuta K, Ashfield T, Kim S, Innes RW. Diversification of non-TIR class NB-LRR genes in relation to whole-genome duplication events in Arabidopsis. Mol Plant Microbe Interact. 2005 Feb;18(2):103-9.",
+    "year": 2005,
+    "author": "Nobuta K, Ashfield T, Kim S, Innes RW",
+  },
+  {
+    "title": "Choi K, Ma Y, Choi JH, Kim S. PLATCOM: a Platform for Computational Comparative Genomics. Bioinformatics. 2005 May 15;21(10):2514-6.",
+    "year": 2005,
+    "author": "Choi K, Ma Y, Choi JH, Kim S",
+  },
+  {
+    "title": "Balch C, Montgomery JS, Paik HI, Kim S, Kim S, Huang TH, Nephew KP. New anti-cancer strategies: epigenetic therapies and biomarkers. Front Biosci. 2005 May 1;10:1897-931. Review.",
+    "year": 2005,
+    "author": "Balch C, Montgomery JS, Paik HI, Kim S, Kim S, Huang TH, Nephew KP",
+  },
+  {
+    "title": "Choi JH, Cho HG, Kim S. GAME: a simple and efficient whole genome alignment method using maximal exact match filtering. Comput Biol Chem. 2005 Jun;29(3):244-53.",
+    "year": 2005,
+    "author": "Choi JH, Cho HG, Kim S",
+  },
+  {
+    "title": "Wood DW. ... Kim S. ... Nester EW. The Genome of Agrobacterium tumefaciens C58: Insights into the evolution and biology of a natural genetic engineer,'' Science, ISSN 0036-8075, Dec 14 2001: 2317-2323",
+    "year": 2001,
+    "author": "Wood DW. ... Kim S. ... Nester EW",
+  },
+  {
+    "title": "Kim S. A New String Matching Algorithm Using Partitioning and Hashing Efficiently. The ACM Journal of Experimental Algorithmics, Vol 4, 1999",
+    "year": 1999,
+    "author": "Kim S",
+  },
+  {
+    "title": "Kim S. and Segre AM. AMASS: A Structured Pattern Matching Approach to Shotgun Sequence Assembly. JournalofComputationalBiology, ISSN 1066-5277, Vol 6 (2), Mary Ann Liebert Press 1999, pp. 163-186.",
+    "year": 1999,
+    "author": "Kim S. and Segre AM",
+  },
+  ],
+
+
+
+
+  "conference": [
+  {
+    "title": "Jo K, Jung IU, Moon JH, Kim S, Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways. Intelligent Systems for Molecular Biology (ISMB), Orlando, FL, July 2016.",
+    "year": 2016,
+    "author": "Jo K, Jung IU, Moon JH, Kim S",
+  },
+  {
+    "title": "Kim MS, Hur B, Kim S. RDDpred: a condition-specific RNA-editing prediction model from RNA-seq data. Asia Pacific Bioinformatics Conference (APBC) 2016.",
+    "year": 2016,
+    "author": "Kim MS, Hur B, Kim S",
+  },
+  {
+    "title": "Lee CJ, Ahn HR, Lee SB, Shin JY, Park WY, Kim JI, Lee JH, Ryu H, Kim S. Integrated analysis of omics data using microRNA-target mRNA network and PPI network reveals regulation of Gnai1 function in the spinal cord of EWS KO mice. The 5th Translational Bioinformatics Conference (TBC 2015), Tokyo, Japan.",
+    "year": 2015,
+    "author": "Lee CJ, Ahn HR, Lee SB, Shin JY, Park WY, Kim JI, Lee JH, Ryu H, Kim S",
+  },
+  {
+    "title": "Hur B, Chae H and Kim S, Combined analysis of gene regulatory network and SNP information enhances identification of potential gene markers in mouse knockout studies with small number of samples. The 8th International Conference on Systems Biology and the 4th Translational Bioinformatics Conference (ISB/TBC 2014), Qingdao, October 2014",
+    "year": 2014,
+    "author": "Hur B, Chae H and Kim S",
+  },
+  {
+    "title": "An JH, Kim KS and Kim S. An algorithm for identifying differentially expressed genes in multiclass RNA-seq samples. International Conference on Big Data and Smart Computing (BIGCOMP), Bangkok, January 2014.",
+    "year": 2014,
+    "author": "An JH, Kim KS and Kim S",
+  },
+  {
+    "title": "Jung IU, Park JC and Kim S. piClust: A density based piRNA clustering algorithm. Asia Pacific Bioinformatics Conference (APBC) 2014. Accepted in October 2013.",
+    "year": 2013,
+    "author": "Jung IU, Park JC and Kim S",
+  },
+  {
+    "title": "Yoo YJ, Sandhan T, Choi J, and Kim S. Towards Simultaneous Clustering and Motif-Modeling for a Large Number of Protein Families. IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM) Workshop on Biomolecular Network Analysis (IWBNA), Shanghai, December 2013",
+    "year": 2013,
+    "author": "Yoo YJ, Sandhan T, Choi J, and Kim S",
+  },
+  {
+    "title": "Lee KY, Kim S. Discriminative spatial pattern vectors selection for motor imagery classification. Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2012: 981-984",
+    "year": 2012,
+    "author": "Lee KY, Kim S",
+  },
+  {
+    "title": "Marru S, Chae H, Tangchaisin P, Kim S, Pierce M, Nephew K. Transitioning BioVLab cloud workbench to a science gateway. Proceedings of the 2011 TeraGrid Conference: Extreme Digital Discovery. No. 40. 2011.",
+    "year": 2011,
+    "author": "Marru S, Chae H, Tangchaisin P, Kim S, Pierce M, Nephew K",
+  },
+  {
+    "title": "Lee HR, Yang Y, Chae HJ, Nam SY, Choi DH, Tangchaisin P, Herath C, Marru S, Nephew K, and Kim S. BioVLAB-MMIA: A Reconfigurable Cloud Computing Environment for microRNA and mRNA Integrated Analysis. IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2011).",
+    "year": 2011,
+    "author": "Lee HR, Yang Y, Chae HJ, Nam SY, Choi DH, Tangchaisin P, Herath C, Marru S, Nephew K, and Kim S",
+  },
+  {
+    "title": "Choi KM and Kim S. Sequence-Based Enzyme Catalytic Domain Prediction Using Clustering and Aggregated Mutual Information Content. IEEE International Conference on Healthcare Informatics, Imaging and Systems Biology (HISB), 2011",
+    "year": 2011,
+    "author": "Choi KM and Kim S",
+  },
+  {
+    "title": "Pejaver V and Kim S. Gene Cluster Profile Vectors: A Novel Method to Infer Functional Coupling Using Both Gene Proximity and Co-occurrence Profiles. Proc IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2010, pp 29-34, Hong Kong, December 2010.",
+    "year": 2010,
+    "author": "Pejaver V and Kim S",
+  },
+  {
+    "title": "Chae H, Ashki H, Chio KM, Kim S. EGGSlicer: Predicting biologically meaningful gene sets from gene clusters using gene ontology information, Proc. ACM Conference on Bioinformatics and Computational Biology, 2010",
+    "year": 2010,
+    "author": "Chae H, Ashki H, Chio KM, Kim S",
+  },
+  {
+    "title": "Yang Y, Kim S. Issues in Comparing Gene Function Annotation in Text, ACM SIGDOC Conference, pp 227-232, 2009",
+    "year": 2009,
+    "author": "Yang Y, Kim S",
+  },
+  {
+    "title": "Kim S, Li M, Paik H, Nephew K, Shi H, Kramer R, Xu D, Huang TH. Predicting DNA methylation susceptibility using CpG flanking sequences. Pac Symp Biocomput. 2008:315-26.",
+    "year": 2008,
+    "author": "Kim S, Li M, Paik H, Nephew K, Shi H, Kramer R, Xu D, Huang TH",
+  },
+  {
+    "title": "Yang Y, Choi JY, Choi K, Gannon D, Pierce P, and Kim S. BioVLAB-Microarray: Microarray Data Analysis in Virtual Environment. Proc IEEE E-science, December 2008",
+    "year": 2008,
+    "author": "Yang Y, Choi JY, Choi K, Gannon D, Pierce P, and Kim S",
+  },
+  {
+    "title": "Choi JY, Yang Y, Kim S, and Gannon D. VLAB-Proteins: a Collaborative Virtul Lab for Protein Sequence Anlaysis. Proc IEEE Workshop on High-Throughput Data Analysis for Proteomics and Genomics, pp 183-190, November 2-5, 2007, San Jose, CA",
+    "year": 2007,
+    "author": "Choi JY, Yang Y, Kim S, and Gannon D",
+  },
+  {
+    "title": "Choi K, Yang Y, and Kim S. CLASSEQ: Classification of Multiple Sequences via Comparative Analysis of Multiple Genomes. Proc International Workshop on Machine Learning in Biomedicine and Bioinformatics (MLBB) with The Sixth International Conference on Machine Learning and Applications (ICMLA), pp 554-559, December 13-15, 2007",
+    "year": 2007,
+    "author": "Choi K, Yang Y, and Kim S",
+  },
+  {
+    "title": "Patwardhan R, Tang H, Kim S, and Dalkilic M. An approximate de Bruijn graph approach to multiple local alignment and motif discovery in protein sequences. Lecture Note in Bioinformatics 4316, Springer 2007",
+    "year": 2007,
+    "author": "Patwardhan R, Tang H, Kim S, and Dalkilic M",
+  },
+  {
+    "title": "Bhan A, Maryada BK, Choi K, and Brun Y, Kim S. EGGS: Extraction of Gene clusters by iteratively using Genome context based Sequence matching techniques. Proc IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp 23-28 November 2-5, 2007, San Jose, CA",
+    "year": 2007,
+    "author": "Bhan A, Maryada BK, Choi K, and Brun Y, Kim S",
+  },
+  {
+    "title": "Sheth H, Kim S. Motif Discovery for Proteins By Subsequence Clustering The 5th ACM SIGKDD Workshop on Data Mining in Bioinformatics August 2005",
+    "year": 2005,
+    "author": "Sheth H, Kim S",
+  },
+  {
+    "title": "Kim S. A System Design Paradigm to Deliver a Genome Comparison System on the Web. Microsoft E-science Workshop, October 2005.",
+    "year": 2005,
+    "author": "Kim S",
+  },
+  {
+    "title": "Choi KM, Choi JH, Saple A, Wang Z, Lee J, Kim S. PLATCOM: Current Status and Plan for the Next Stages. DILS, LNCS 3615, 300-304, 2005",
+    "year": 2005,
+    "author": "Choi KM, Choi JH, Saple A, Wang Z, Lee J, Kim S",
+  },
+  {
+    "title": "Kim S, Choi JH, Yang J. Gene teams with relaxed proximity constraint. Proc IEEE Comput Syst Bioinform (CSB) Conf. 2005:44-55.",
+    "year": 2005,
+    "author": "Kim S, Choi JH, Yang J",
+  },
+  {
+    "title": "Choi JH, Choi KM, Cho HG, Kim, S. Multiple Genome Alignment by Clustering Pairwise Matches,'' Jens Lagergren (Ed.): Comparative Genomics, RECOMB 2004 International Workshop. Lecture Notes in Computer Science 3388, ISSN 0302-9743, Springer 2005",
+    "year": 2005,
+    "author": "Choi JH, Choi KM, Cho HG, Kim S",
+  },
+  {
+    "title": "Wang Z, Dalkilic M, and Kim S. Guiding Motif Discovery by Iterative Pattern Refinement. ACM SAC Bioinformatics Track 2004, March 14-17, Nicosia, Cyprus, 2004.",
+    "year": 2004,
+    "author": "Wang Z, Dalkilic M, and Kim S",
+  },
+  {
+    "title": "Gunduz I, Zhao S, Dalkilic M and Kim S. Motif Discovery from A Large Number of Sequences: A Case Study with Disease Resistance Genes in Arabidopsis thaliana. The 2003 International Conference on Mathematics and Engineering Techniques in Medicine and Biological Sciences (METMBS'03) June 23-26, 2003, Las Vegas, Nevada, USA.",
+    "year": 2003,
+    "author": "Gunduz I, Zhao S, Dalkilic M and Kim S",
+  },
+  {
+    "title": "Liao L. Kim S. and Tomb JF. Genome Comparisons Based on Profiles of Metabolic Pathways. Proc . of Sixth International Conference on Knowledge-Based Intelligent Information & Engineering Systems (KES 2002) September 2002 Crema, Italy",
+    "year": 2002,
+    "author": "Liao L. Kim S. and Tomb JF",
+  },
+  {
+    "title": "Kim S. Liao L. and Tomb JF. A Probabilistic Approach to Sequence Assembly Validation. ACM SIGKDD Workshop on Data Mining in Bioinformatics (BioKDD2001), 2001, pp 38-43",
+    "year": 2001,
+    "author": "Kim S. Liao L. and Tomb JF",
+  },
+  {
+    "title": "Kim S. and Kim YG. A Fast Multiple String-Pattern Matching Algorithm. Proc. of 17th AoM/IAoM Conference on Computer Science, August 1999,",
+    "year": 1999,
+    "author": "Kim S. and Kim YG",
+  },
+  {
+    "title": "Kim S. and Zhang H. ModGen: Theorem Proving by Model Generation. Proceedings of National Conferenceon Artificial Intelligence(AAAI), 1994, Seattle, WA. MIT Press, pp. 162-167.",
+    "year": 1994,
+    "author": "Kim S. and Zhang H",
+  },
+  {
+    "title": "Eom JH. Kim S. Kim WK. and Lee CS. C-INFO: C Program Information Management System. IFAC/IFIPWorkshopontheExperiencewiththeManagementofSoftwareProjects, 1989.",
+    "year": 1989,
+    "author": "Eom JH. Kim S. Kim WK. and Lee CS",
+  },
+  {
+    "title": "Kim S. and Moon SC. Nonredundant Allocation of Files in Distributed Systems. Proceedings of the IEEE Region10 Conference, 1987. ISSN 1078-0432, 2006 12: 2788-2794.",
+    "year": 1987,
+    "author": "Kim S. and Moon SC",
+  },
+  ],
+
+
+
+
+  "domestic": [
+  {
+    "title": "강혜진, 정인욱, 정우석, 김선. Spherical vector clustering 기법과 Support Vector Machine을 이용한 한발관련 표현형이 다른 벼의 복수 시계열 Next Generation Sequencing 테이터의 분석, 한국정보과학회 2015년 동계학술발표회 논문집, Vol.2015, pp.651-653.",
+    "year": 2015,
+    "author": "Kang H, Jung I, Jung W, Kim S",
+  },
+  {
+    "title": "강동원, 안홍렬, 정우석, 김선. 이질적 시계열 유전자 발현 데이터의 통합 분석 문제의 정의 및 애기장대에서의 저온 스트레스 반응 유전자 검출 알고리즘 개발, 한국정보과학회 2015년 동계학술발표회 논문집, Vol.2015, No.12, pp.648-650.",
+    "year": 2015,
+    "author": "Kang D, Ahn HR, Jung W, Kim S",
+  },
+  {
+    "title": "조겨리, 김선. 네트워크를 이용한 시계열 유전체 분석 기법의 연구 동향, 정보과학회지, Vol.32, No. 10, 2014년 10월, pp.22-27.",
+    "year": 2014,
+    "author": "Jeo K, Kim S",
+  },
+  {
+    "title": "서석준, 오민식, 정인욱, 채희준, 김선. BioVLAB-클라우드 기반의 생물정보학 분석 시스템, 정보과학회지, Vol.31, No.3, 2013년 3월, pp.108-114.",
+    "year": 2013,
+    "author": "Seo S, Oh M, Jung I, Chae H, Kim S",
+  },
+  ],
+
+
+
+
+  "book": [
+  {
+    "title": "Lee CJ, Evans J, Kim KS, Chae HJ, and Kim S. Determining the Effect of DNA Methylation on Gene Expression in Cancer Cells. Gene Function Analysis, Methods in Molecular Biology, vol. 1101, Michael F. Ochs edited, Springer, 2013.[Link]",
+    "year": 2013,
+  },
+  {
+    "title": "Pejaver VR, Lee HW, and Kim S. Gene cluster prediction and its application to genome annotation. In Omics approaches for protein function prediction, Kihara D edited. Springer 2010. ISBN 978-94-007-0881-5",
+    "year": 2010,
+  },
+  {
+    "title": "Chio JH, Kim S, Tang H, and Pop M. Computational Approaches for Genome Assembly Validation. Biological Data Mining, Chen and Lonardi edited, Chapman and Hall/CRC Press, 2009",
+    "year": 2009,
+  },
+  {
+    "title": "Choi JH, Kim S, Tang S, and Pop M. Computational Approaches for Genome Assembly Validation. Biological Data Mining, Jake Y. Chen and Stefano Lonardi, ed. Chapman and Hall/CRC Press, 2009",
+    "year": 2009,
+  },
+  {
+    "title": "Choi K, Yang Y, Kim S. CGAS: a comparative genome annotation system. Methods Mol Biol. 2007;395:133-46.",
+    "year": 2007,
+  },
+  {
+    "title": "Kim S, Tang H, Mardis ER. Advances in Genome Sequencing Technology and Algorithms. Artech House, 2007",
+    "year": 2007,
+  },
+  {
+    "title": "Kim S. Graph Theoretic Sequence Clustering Algorithms and Their Applications to Genome Comparison. Chapter 4 in Computational Biology and Genome Informatics edited by Jason T. L. Wang, Cathy H. Wu, and Paul Wang, World Scientific, 2003",
+    "year": 2003,
+  },
+  ]
+}

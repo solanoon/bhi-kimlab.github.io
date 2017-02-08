@@ -1,0 +1,108 @@
+[
+	{
+		"name": "BioVLAB-TCGA-BRCA",
+		"image": "tcga.PNG",
+		"url": "http://tcga-brca.bhi2.snu.ac.kr/",
+		"date": "Feb 2017",
+		"desc": "Web based TCGA Omics Data Mapping System on KEGG pathways",
+		"tags": ["Epigenomics","Pathway"]
+	},
+	{
+		"name": "In Silico experiment tool",
+		"image": "insilico.png",
+		"url": "http://epigenomics.snu.ac.kr:9090/",
+		"date": "Feb 2017",
+    "desc": "In Silico experiment with three-level network Tool for User given Hypothesis of KO mouse<br>\
+    The online instant hypothesis web analyzer in slilico experiment tool.",
+		"tags": ["Epigenomics","Network"]
+	},
+	{
+		"name": "PINTnet",
+		"image": "PINTnet.png",
+		"url": "http://147.46.15.114:8080/",
+		"date": "-",
+    "desc": "-",
+		"tags": ["Pathway","Network"]
+	},
+	{
+		"name": "RDDpred",
+		"image": "RDDpred.png",
+		"url": "http://epigenomics.snu.ac.kr/RDDpred/index.php",
+		"date": "BMC Genomics 2016",
+    "desc": "RDDpred: a condition-specific RNA-editing prediction model from RNA-seq data.",
+		"tags": ["Prediction", "RNA"]
+	},
+	{
+		"name": "TimeTP",
+		"image": "TimeTP.png",
+		"url": "http://epigenomics.snu.ac.kr/TimeTP/index.html#loaded",
+		"date": "2016",
+    "desc": "Influence maximization in time bounded network\
+    identifies transcription factors regulating perturbed pathways",
+		"tags": ["Time-series", "Network"]
+	},
+	{
+		"name": "TimesVector",
+		"image": "TimesVector.png",
+		"url": "http://epigenomics.snu.ac.kr/TimesVector/#",
+		"date": "2016",
+    "desc": "A vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes",
+		"tags": ["Time-series","Clustering"]
+	},
+	{
+		"name": "Context-MMIA",
+		"image": "ContextMMIA.png",
+		"url": "http://epigenomics.snu.ac.kr/contextMMIA/",
+		"date": "2016",
+    "desc": "Context-MMIA is miRNA - mRNA target prediction system combining expression data and literature data.",
+		"tags": ["Predict","RNA"]
+	},
+	{
+		"name": "ContextTRAP",
+		"image": "ContextTRAP.png",
+		"url": "http://epigenomics.snu.ac.kr/contextTRAP/",
+		"date": "2016",
+    "desc": "ContextTRAP is novel approach for prioritizing pathways by utilizing both results from pathway analysis tools and the literature information.",
+		"tags": ["Pathway"]
+	},
+	{
+		"name": "TRAP",
+		"image": "TRAP.png",
+		"url": "http://epigenomics.snu.ac.kr/TRAP/index.html",
+		"date": "2014",
+    "desc": "Time-series RNA-seq Analysis Package",
+		"tags": ["Time-series","RNA"]
+	},
+	{
+		"name": "DegPack",
+		"image": "DEGpack.png",
+		"url": "http://epigenomics.snu.ac.kr/degpack/",
+		"date": "-",
+    "desc": "Identifying DEGs in multiclass RNA-seq data",
+		"tags": ["DEG", "RNA"]
+	},
+	{
+		"name": "SpliceHetero",
+		"image": "SpliceHetero.png",
+		"url": "http://epigenomics.snu.ac.kr/SpliceHetero/",
+		"date": "-",
+    "desc": "A novel computational method to measure spliceome level intra-tumor heterogeneity (sITH) in breast cancer",
+		"tags": ["Heterogenity","Breast Cancer"]
+	},
+	{
+		"name": "biovlab_mcpg_snp_express",
+		"image": "",
+		"url": "http://bhi2.snu.ac.kr:3000/",
+		"date": "-",
+    "desc": "-",
+		"tags": []
+	},
+	{
+		"name": "tfnetwork_lasso",
+		"image": "",
+		"url": "http://biohealth.snu.ac.kr/software/tfnetwork_lasso/",
+		"date": "-",
+    "desc": "-",
+		"tags": []
+	},
+]

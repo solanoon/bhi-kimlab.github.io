@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="well">
+<article>
+  <!-- welcome message -->
+  <div class="title_wrapper"><h3 class="title">
+  Welcome!
+  </h3></div>
+  <div>
+    {{ content }}
+  </div>
+
+  <!-- research area -->
+  <div class="title_wrapper"><h3 class="title">
+  Our Research
+  </h3></div>
+  {% for d in site.data.research %}
+  <div class="row research">
+  <div class="col-md-6"><img src="{{ site.baseurl }}/static/img/about/{{ d.img }}"></div>
+  <div class="col-md-6">
+  <div class="subtitle"><h4>{{ d.title }}</h4></div>
+  <div class="desc">
+  {{ d.desc }}
+  </div>
+  </div>
+  </div>
+  {% endfor %}
+</article>
+</div>

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="well">
+  {% if page.subtitle %}
+  <h4 class="home-subtitle">{{ page.subtitle }}</h4>
+  {% endif %}
+
+  {% assign profs=site.members | where:"type","prof" %}
+  {% assign msphd=site.members | where:"type","msphd" %}
+  {% assign phd=site.members | where:"type","phd" %}
+  {% assign ms=site.members | where:"type","ms" %}
+  {% assign alumni=site.members | where:"type","alumni" %}
+  {% assign assist=site.members | where:"type","assistant" %}
+
+  <!-- group picture -->
+  <div class="flexslider">
+    <ul class="slides">
+    {% for members in site.data.members %}
+      <li>
+        <div class="bg-cover" style="background-image: url({{ site.baseurl }}/static/img/members/{{ members.img }}) !important;">
+          <img src="{{ site.baseurl }}/static/img/blank_16x8.png" width="100%">
+        </div>
+        <p class="flex-caption">{{ members.desc }}</p>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+
+  <!-- professor -->
+  {% for prof in profs %}
+  {% include member_prof.html member=prof %}
+  {% endfor %}
+  
+  <!-- members -->
+  {% include member_thumb.html name="Ph.D" members=phd img=true %}
+  {% include member_thumb.html name="Ms &amp; Ph.D" members=msphd img=true %}
+  {% include member_thumb.html name="Ms" members=ms img=true %}
+  {% include member_thumb.html name="Alumni" members=alumni %}
+  {% include member_thumb.html name="Assistant" members=assist %}
+</div>

@@ -1,0 +1,19 @@
+    <nav class="menu sidemenu" id="sidebar">
+      <!-- navigation from dict name -->
+      <ul class="nav list-separator well well-primary {{ page.layout }}" id="sidebar_nav">
+      {% for i in page.navs %}
+        {% assign section = i.name %}
+        {% assign linkurl = i.id | prepend: 'nav_' | slugify %}
+        <li>
+          <a href="#{{ linkurl }}">{{ section }}</a>
+          {% if i.children %}
+          <ul class="list-children subnav">
+           {% for e in i.children %}
+           <li><a href="#{{ e.id | prepend: 'nav_' | slugify }}">{{ e.name }}</a></li>
+           {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    </nav>

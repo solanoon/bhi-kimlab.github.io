@@ -1,0 +1,39 @@
+{
+  "show_img": true,
+  "title": "Bio & Health Informatics Lab",
+  "subtitle": "Seoul National University",
+  "imgs": [
+    {
+      "img": "220_building.jpg",
+      "desc": "220 Building",
+    },
+    {
+      "img": "2017_day1_presentation.jpg",
+      "desc": "2017 Day1 Presentation",
+    },
+    {
+      "img": "BigComp@Jeju2016.jpg",
+      "desc": "BigComp 2016 @ Jeju",
+    },
+    {
+      "img": "BigComp@Jeju2016_2.jpg",
+      "desc": "BigComp 2016 @ Jeju",
+    },
+    {
+      "img": "workshop@2016.jpg",
+      "desc": "BHI Lab 2016 Workshop",
+    },
+  ],
+
+
+  "_imgs_unused": [
+    {
+      "img": "Chogosu.jpg",
+      "desc": "Chogosu",
+    },
+    {
+      "img": "OhKkaeBi.jpg",
+      "desc": "OhKkaeBi",
+    },
+  ],
+}
