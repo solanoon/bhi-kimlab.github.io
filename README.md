@@ -37,6 +37,10 @@ Edited by Dongwon Kang, Original skin: HCZ Material theme
 * Pictures should be uploaded at `static/img/member`.
 * You can make your own file(page) if not exists.
 
+### Projects
+* Edit `_data/projects.json`
+* Thumbnail images: `static/img/projects`
+
 ### Papers
 * Edit `_data/publications.json`
 * Contains 4 types: international / conference / domestic / book
