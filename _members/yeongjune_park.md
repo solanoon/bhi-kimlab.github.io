@@ -1,6 +1,6 @@
 ---
 layout: profile
-title:  "Yeongjune Park"
+title:  "Youngjune Park"
 type: ms
 tag: "Park Y"
 img: "yeongjune_park.jpg"
