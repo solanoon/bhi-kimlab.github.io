@@ -38,4 +38,4 @@ collections:
 # to render page list
 paginate_path: news/page:num/
 
-keep_files: [software]
+keep_files: [software, analysis_service, analysis_service_wp]
