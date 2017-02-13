@@ -1,9 +1,14 @@
 {
   "international": [
   {
+    "title": "Rhee S, Lim S, Kim S, Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer. International Journal of Data Mining and Bioinformatics",
+    "year":2016,
+    "author": "Rhee S, Lim S, Kim S"
+  },
+  {
     "title": "Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. BMC Systems Biology, 2016 Dec 23",
     "year": 2016,
-    "author": "Chae H, Lee S, Nephew KP, Kim S",
+    "author": "Chae H, Lee S, Kim S",
   },
   {
     "title": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S. Clustering and evolutionary analysis of small RNAs identify regulatory siRNA clusters induced under drought stress in rice. BMC Systems Biology, 2016 Dec 23",
@@ -13,7 +18,7 @@
   {
     "title": "Lee J, Jo K, Lee S, Kang J, Kim S. Prioritizing biological pathways by recognizing context in time-series gene expression data. BMC Bioinformatics, 2016 Dec 23",
     "year": 2016,
-    "author": "Lee JS, Jo K, Lee S, Kang J, Kim S",
+    "author": "Lee JS, Jo K, Kim S",
   },
   {
     "title": "Park Y, Lim S, Nam J, Kim S. Measuring intratumor heterogeneity by network entropy using RNA-seq data, Scientific Reports, 2016 Nov 24. ",
@@ -23,7 +28,7 @@
   {
     "title": "Hur B, Lim S, Chae H, Seo S, Lee S, Kang J, Kim S. CLIP-GENE: a web service of the condition specific context-laid integrative analysis for gene prioritization in mouse TF knockout experiments. Biology Direct, 2016 Nov 1, 57.",
     "year": 2016,
-    "author": "Hur B, Lim S, Chae H, Seo S, Lee S, Kang J, Kim S",
+    "author": "Hur B, Lim S, Chae H, Seo S, Kim S",
   },
   {
     "title": "Lim S, Park Y, Hur B, Kim M, Han W, Kim S. Protein interaction network (PIN)-based breast cancer subsystem identification and activation measurement for prognostic modeling. Methods. 2016 Nov 1.",
@@ -36,6 +41,11 @@
     "author": "Park J, Hur B, Rhee S, Lim S, Kim MS, Kim K, Han W, Kim S",
   },
   {
+    "title": "Lee CJ, Ahn H, Lee SB, Shin J, Park WY, Kim JI, Lee J, Ryu H, Kim S, Integrated analysis of omics data using microRNA-target mRNA network and PPI network reveals regulation of Gnai1 function in the spinal cord of Ews/Ewsr1 KO mice. BMC Medical Genomics, 9(1), 33.",
+    "year" : 2016,
+    "author": "Lee CJ, Ahn H, Kim S"
+  },
+  {
     "title": "Chae H, Lee S, Seo S, Jung D, Chang H, Nephew KP, Kim S. BioVLAB-mCpG-SNP-EXPRESS: A system for multi-level and multi-perspective analysis and exploration of DNA methylation, sequence variation (SNPs), and gene expression from multi-omics data. Methods. 2016 Jul 28.",
     "year": 2016,
     "author": "Chae H, Lee S, Seo S, Jung D, Chang H, Nephew KP, Kim S",
@@ -44,6 +54,11 @@
     "title": "Jeong HM, Lee S, Chae H, Kim R, Kwon MJ, Oh E, Choi YL, Kim S, Shin YK. Efficiency of methylated DNA immunoprecipitation bisulphite sequencing for whole-genome DNA methylation analysis. Epigenomics. 2016 Jun 8(0).",
     "year": 2016,
     "author": "Jeong HM, Lee S, Chae H, Kim R, Kwon MJ, Oh E, Choi YL, Kim S, Shin YK",
+  },
+  {
+    "title": "Jang Y, Yu N, Seo J, Kim S, Lee S, MONGKIE: an integrated tool for network analysis and visualization for multi-omics data. Biology direct, 11(1), 10.",
+    "year": 2016,
+    "author": "Jang Y, Kim S"
   },
   {
     "title": "Jo K, Jung IU, Moon JH, Kim S, Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways. Bioinformatics. 2016 32(12):i128-i136.",
@@ -66,9 +81,9 @@
     "author": "Sandhan T, Yoo YJ, Choi JY, Kim S",
   },
   {
-    "title": "Ryu H. Kim Y, Kang YS, Lee NY, Kim KY, Hwang YJ, Kim HW, Rhyu IJ, Her S, Jung MK, Kim S, Lee CJ, Ko S, Kowall NW, Lee SB, Lee J, Mir125a and Mir351 modulates autophagy associated with Ewsr1 deficiency., Autophagy, 2015 May 5",
+    "title": "Kim Y, Kang YS, Lee NY, Kim KY, Hwang YJ, Kim HW, Rhyu IJ, Her S, Jung MK, Kim S, Lee CJ, Ko S, Kowall NW, Lee SB, Lee J, Ryu H, Uvrag targeting by Mir125a and Mir351 modulates autophagy associated with Ewsr1 deficiency., Autophagy, 2015 May 5",
     "year": 2015,
-    "author": "Ryu H. Kim Y, Kang YS, Lee NY, Kim KY, Hwang YJ, Kim HW, Rhyu IJ, Her S, Jung MK, Kim S, Lee CJ, Ko S, Kowall NW, Lee SB, Lee J",
+    "author": "Kim S, Lee CJ, Ko S, ",
   },
   {
     "title": "Yerrapragada S, Shukla A, Hallsworth-Pepin K, Choi K, Wollam A, Clifton S, Qin X, Muzny D, Raghuraman S, Ashki H, Uzman A, Highlander SK, Fryszczyn BG, Fox GE, Tirumalai MR, Liu Y, Kim S, Kehoe DM, Weinstock GM., Extreme Sensory Complexity Encoded in the 10-Megabase Draft Genome Sequence of the Chromatically Acclimating Cyanobacterium Tolypothrix sp. PCC 7601.Genome Announc. 2015 May 7;3(3)",
@@ -81,14 +96,14 @@
     "author": "Rhee S, Chae H, Kim S",
   },
   {
-    "title": "Chae HJ, Rhee SM, Nephew KP, Kim S. BioVLAB-MMIA-NGS: MicroRNA-mRNA integrated analysis using high throughput sequencing data. Bioinformatics, 2014.",
+    "title": "Chae H, Rhee SM, Nephew KP, Kim S. BioVLAB-MMIA-NGS: MicroRNA-mRNA integrated analysis using high throughput sequencing data. Bioinformatics, 2014.",
     "year": 2014,
-    "author": "Chae HJ, Rhee SM, Nephew KP, Kim S",
+    "author": "Chae H, Rhee S, Nephew KP, Kim S",
   },
   {
     "title": "An JH, Kim KS, Chae HJ, Kim S, DegPack: A web package using a non-parametric and information theoretic algorithm to identify differentially expressed genes in multiclass RNA-seq samples, Methods, 2014.",
     "year": 2014,
-    "author": "An JH, Kim KS, Chae HJ, Kim S",
+    "author": "An JH, Kim KS, Chae H, Kim S",
   },
   {
     "title": "Jo K, Kwon HB, Kim S. Time-series RNA-seq analysis package (TRAP) and its application to the analysis of rice, Oryza sativa L. ssp. Japonica, upon drought stress. Methods, 2014.",
@@ -103,7 +118,7 @@
   {
     "title": "Kim KY, Hwang YJ, Jung MK, Choe J, Kim Y, Kim S, Lee CJ, Ahn HK, Lee J, Kowall NW, Kim YK, Kim JI, Lee SB, Ryu H. A multifunctional protein EWS regulates the expression of Drosha and microRNAs. Cell Death Differ. 2013 Nov 1. doi: 10.1038/cdd.2013.144.",
     "year": 2013,
-    "author": "Kim KY, Hwang YJ, Jung MK, Choe J, Kim Y, Kim S, Lee CJ, Ahn HK, Lee J, Kowall NW, Kim YK, Kim JI, Lee SB, Ryu H",
+    "author": "Kim S, Lee CJ, Ahn HK",
   },
   {
     "title": "Rhee J, Kim K, Chae H, Evans J, Yan P, Zhang B, Gray J, Spellman P, Huang T, Nephew K and Kim S. Integrated Analysis of Genome-wide DNA Methylation and Gene Expression Profiles in Molecular Subtypes of Breast Cancer, Nucleic Acids Res. 2013 July 2;41(18):8464-8474.doi: 10.1093/nar/gkt643",
@@ -113,7 +128,7 @@
   {
     "title": "Rhee SM, Park JW, and Kim S. Computational regulatory network construction from microRNA and transcription factor perspectives. ACM SIG Bio Record, Volume 3, Issue 3, May 2013 ISSN 2159-1210.",
     "year": 2013,
-    "author": "Rhee SM, Park JW, Kim S",
+    "author": "Rhee S, Park JW, Kim S",
     "link": "http://dl.acm.org/citation.cfm?id=2500125"
   },
   {
@@ -348,19 +363,44 @@
 
   "conference": [
   {
-    "title": "Jo K, Jung IU, Moon JH, Kim S, Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways. Intelligent Systems for Molecular Biology (ISMB), Orlando, FL, July 2016.",
+    "title": "Rhee S, Lim S, Kim S, Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer. 2016 IEEE International Conference On Bioinformatics and Biomedicine (BIBM 2016), Shenzhen, China",
+    "year": 2016,
+    "author": "Rhee S, Lim S, Kim S"
+  },
+  {
+    "title": "Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
+    "year": 2016,
+    "author": "Chae H, Lee S, Kim S",
+  },
+  {
+    "title": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S. Clustering and evolutionary analysis of small RNAs identify regulatory siRNA clusters induced under drought stress in rice. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
+    "year": 2016,
+    "author": "Jung I, Ahn H, Kim S",
+  },
+  {
+    "title": "Lee J, Jo K, Lee S, Kang J, Kim S. Prioritizing biological pathways by recognizing context in time-series gene expression data. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
+    "year": 2016,
+    "author": "Lee JS, Jo K, Kim S",
+  },
+  {
+    "title": "Park J, Hur B, Rhee S, Lim S, Kim MS, Kim K, Han W, Kim S. Information theoretic sub-network mining characterizes breast cancer subtypes in terms of cancer core mechanisms. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
+    "year": 2016,
+    "author": "Park J, Hur B, Rhee S, Lim S, Kim MS, Kim K, Han W, Kim S",
+  },
+  {
+    "title": "Jo K, Jung IU, Moon JH, Kim S, Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways. Intelligent Systems for Molecular Biology (ISMB 2016), Orlando, FL, July 2016.",
     "year": 2016,
     "author": "Jo K, Jung IU, Moon JH, Kim S",
   },
   {
-    "title": "Kim MS, Hur B, Kim S. RDDpred: a condition-specific RNA-editing prediction model from RNA-seq data. Asia Pacific Bioinformatics Conference (APBC) 2016.",
+    "title": "Kim MS, Hur B, Kim S. RDDpred: a condition-specific RNA-editing prediction model from RNA-seq data. Asia Pacific Bioinformatics Conference (APBC 2016), San Francisco Bay Area, United States",
     "year": 2016,
     "author": "Kim MS, Hur B, Kim S",
   },
   {
     "title": "Lee CJ, Ahn HR, Lee SB, Shin JY, Park WY, Kim JI, Lee JH, Ryu H, Kim S. Integrated analysis of omics data using microRNA-target mRNA network and PPI network reveals regulation of Gnai1 function in the spinal cord of EWS KO mice. The 5th Translational Bioinformatics Conference (TBC 2015), Tokyo, Japan.",
     "year": 2015,
-    "author": "Lee CJ, Ahn HR, Lee SB, Shin JY, Park WY, Kim JI, Lee JH, Ryu H, Kim S",
+    "author": "Lee CJ, Ahn HR, Kim S",
   },
   {
     "title": "Hur B, Chae H and Kim S, Combined analysis of gene regulatory network and SNP information enhances identification of potential gene markers in mouse knockout studies with small number of samples. The 8th International Conference on Systems Biology and the 4th Translational Bioinformatics Conference (ISB/TBC 2014), Qingdao, October 2014",
