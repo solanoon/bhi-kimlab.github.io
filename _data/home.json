@@ -12,10 +12,6 @@
       "desc": "2017 Day1 Presentation",
     },
     {
-      "img": "BigComp@Jeju2016.jpg",
-      "desc": "BigComp 2016 @ Jeju",
-    },
-    {
       "img": "BigComp@Jeju2016_2.jpg",
       "desc": "BigComp 2016 @ Jeju",
     },
@@ -34,6 +30,10 @@
     {
       "img": "OhKkaeBi.jpg",
       "desc": "OhKkaeBi",
+    },
+    {
+      "img": "BigComp@Jeju2016.jpg",
+      "desc": "BigComp 2016 @ Jeju",
     },
   ],
 }
