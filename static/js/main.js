@@ -39,7 +39,7 @@ if ($('#bg_list').length) {
   var img = imgs[Math.floor(Math.random()*imgs.length)];
   var img_src = $(img).find('img').attr('data-src');
   var img_desc = $(img).find('p').text();
-  $('#bg').attr('style', 'background-image: url("' + img_src + '") !important;');
+  $('#bg').attr('style', 'background-image: url("' + img_src + '") !important; background-size: 100%; background-size: cover;');
   $('#bg_desc').text(img_desc);
 }
 

@@ -278,7 +278,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
   font-weight: bold;
 }
 
-.bg-cover { background: center center no-repeat / cover; }
+.bg-cover {
+  /* Safari browser must reset background-size attr after img resetted */ 
+  background: center center no-repeat;
+  background-size: 100%; /* fallback */
+  background-size: cover;
+}
 .member { margin-bottom: 30px; }
 
 .member_img { margin-bottom: 20px; border-radius: 5px; background-image: url(../img/member/unknown.png); }

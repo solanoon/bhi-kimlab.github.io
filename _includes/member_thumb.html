@@ -2,11 +2,11 @@
     <div class="row members">
     {% assign idx=0 %}
     {% for member in include.members %}
-    <div class="col-md-3 col-sm-6 member">
+    <div class="col col-md-2 col-sm-2 col-xs-12 member">
       {% if include.img %}
       {% assign member_img="unknown.png" %}
       {% if member.img %}{% assign member_img=member.img %}{% endif %}
-      <div class="bg-cover member_img" style="background-image: url({{ site.baseurl }}/static/img/member/{{ member_img }}) !important">
+      <div class="bg-cover member_img" style="background-image: url({{ site.baseurl }}/static/img/member/{{ member_img }}) !important; background-size: 100%; background-size: cover;">
         <a class="" href="..{{ member.url }}">
         <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png">
         </a>
@@ -14,9 +14,10 @@
       {% endif %}
       <div class="member_desc"><span class="name"><a href="..{{ member.url }}">{{ member.title }}</a></span></div>
       <div class="member_desc">{{ member.contact }}</div>
+      <div class="member_desc">{{ member.summary }}</div>
     </div>
     {% assign idx=idx | plus:1 %}
-    {% assign mo= idx|modulo:4 %}
+    {% assign mo= idx|modulo:6 %}
     {% if mo == 0 %}<div class="clear"></div>{% endif %}
     {% endfor %}
     </div> <!-- row -->
