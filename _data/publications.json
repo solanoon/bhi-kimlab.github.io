@@ -2,7 +2,7 @@
   "international": [
   {
     "title": "Rhee S, Lim S, Kim S, Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer. International Journal of Data Mining and Bioinformatics",
-    "year":2016,
+    "year": "in press",
     "author": "Rhee S, Lim S, Kim S"
   },
   {
@@ -13,7 +13,7 @@
   {
     "title": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S. Clustering and evolutionary analysis of small RNAs identify regulatory siRNA clusters induced under drought stress in rice. BMC Systems Biology, 2016 Dec 23",
     "year": 2016,
-    "author": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S",
+    "author": "Jung I, Ahn HR, Shin SJ, Kim J, Kwon HB, Jung W, Kim S",
   },
   {
     "title": "Lee J, Jo K, Lee S, Kang J, Kim S. Prioritizing biological pathways by recognizing context in time-series gene expression data. BMC Bioinformatics, 2016 Dec 23",
@@ -116,9 +116,9 @@
     "author": "Jung IU, Park JC, Kim S",
   },
   {
-    "title": "Kim KY, Hwang YJ, Jung MK, Choe J, Kim Y, Kim S, Lee CJ, Ahn HK, Lee J, Kowall NW, Kim YK, Kim JI, Lee SB, Ryu H. A multifunctional protein EWS regulates the expression of Drosha and microRNAs. Cell Death Differ. 2013 Nov 1. doi: 10.1038/cdd.2013.144.",
+    "title": "Kim KY, Hwang YJ, Jung MK, Choe J, Kim Y, Kim S, Lee CJ, Ahn H, Lee J, Kowall NW, Kim YK, Kim JI, Lee SB, Ryu H. A multifunctional protein EWS regulates the expression of Drosha and microRNAs. Cell Death Differ. 2013 Nov 1. doi: 10.1038/cdd.2013.144.",
     "year": 2013,
-    "author": "Kim S, Lee CJ, Ahn HK",
+    "author": "Kim S, Lee CJ, Ahn HR",
   },
   {
     "title": "Rhee J, Kim K, Chae H, Evans J, Yan P, Zhang B, Gray J, Spellman P, Huang T, Nephew K and Kim S. Integrated Analysis of Genome-wide DNA Methylation and Gene Expression Profiles in Molecular Subtypes of Breast Cancer, Nucleic Acids Res. 2013 July 2;41(18):8464-8474.doi: 10.1093/nar/gkt643",
@@ -375,7 +375,7 @@
   {
     "title": "Jung I, Ahn H, Shin SJ, Kim J, Kwon HB, Jung W, Kim S. Clustering and evolutionary analysis of small RNAs identify regulatory siRNA clusters induced under drought stress in rice. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
     "year": 2016,
-    "author": "Jung I, Ahn H, Kim S",
+    "author": "Jung I, Ahn HR, Kim S",
   },
   {
     "title": "Lee J, Jo K, Lee S, Kang J, Kim S. Prioritizing biological pathways by recognizing context in time-series gene expression data. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
@@ -398,7 +398,7 @@
     "author": "Kim MS, Hur B, Kim S",
   },
   {
-    "title": "Lee CJ, Ahn HR, Lee SB, Shin JY, Park WY, Kim JI, Lee JH, Ryu H, Kim S. Integrated analysis of omics data using microRNA-target mRNA network and PPI network reveals regulation of Gnai1 function in the spinal cord of EWS KO mice. The 5th Translational Bioinformatics Conference (TBC 2015), Tokyo, Japan.",
+    "title": "Lee CJ, Ahn H, Lee SB, Shin JY, Park WY, Kim JI, Lee JH, Ryu H, Kim S. Integrated analysis of omics data using microRNA-target mRNA network and PPI network reveals regulation of Gnai1 function in the spinal cord of EWS KO mice. The 5th Translational Bioinformatics Conference (TBC 2015), Tokyo, Japan.",
     "year": 2015,
     "author": "Lee CJ, Ahn HR, Kim S",
   },
