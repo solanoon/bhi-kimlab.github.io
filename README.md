@@ -5,7 +5,7 @@ This is a simple personal material theme, best suited for Labortary.
 Edited by Dongwon Kang, Original skin: HCZ Material theme
 
 ### Demo
-* [BHI Lab)](http://biohealth.snu.ac.kr/)
+* [BHI Lab](http://biohealth.snu.ac.kr/)
 * [Github Preview](http://bhi-kimlab.github.io/)
 * Original: [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
 
