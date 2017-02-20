@@ -4,6 +4,16 @@
     "title": "Rhee S, Lim S, Kim S, Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer. International Journal of Data Mining and Bioinformatics",
     "year": "in press",
     "author": "Rhee S, Lim S, Kim S"
+  },  
+  {
+    "title": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. BMC Systems Biology ",
+    "year": "in press",
+    "author": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S"
+  },
+  {
+    "title": "Jung I, Jo K, Kang H, Ahn H, Yu Y, Kim S, TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes. Bioinformatics. 2017 Jan 17. [Epub ahead of print]",
+    "year": 2017,
+    "author": "Jung I, Jo K, Kang H, Ahn HR, Kim S"
   },
   {
     "title": "Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. BMC Systems Biology, 2016 Dec 23",
@@ -363,9 +373,19 @@
 
   "conference": [
   {
+    "title": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. Asia Pacific Bioinformatics Conference (APBC 2017), Shenzhen, China",
+    "year": "2017",
+    "author": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S"
+  },   
+  {
     "title": "Rhee S, Lim S, Kim S, Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer. 2016 IEEE International Conference On Bioinformatics and Biomedicine (BIBM 2016), Shenzhen, China",
     "year": 2016,
     "author": "Rhee S, Lim S, Kim S"
+  },
+  {
+    "title": "Jung I, Jo K, Kang H, Ahn H, Yu Y, Kim S, TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
+    "year": 2017,
+    "author": "Jung I, Jo K, Kang H, Ahn HR, Kim S"
   },
   {
     "title": "Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. The 27th International Conference on Genome Informatics (GIW 2016), Shanghai, China",
