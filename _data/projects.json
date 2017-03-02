@@ -1,7 +1,7 @@
 [
 	{
 		"name": "BRCA-Pathway",
-		"image": "tcga.PNG",
+		"image": "tcga.png",
 		"url": "http://tcga-brca.bhi2.snu.ac.kr/",
 		"date": "Feb 2017",
 		"desc": "Web based TCGA Omics Data Mapping System on KEGG pathways",
