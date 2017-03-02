@@ -1,11 +1,11 @@
 [
 	{
-		"name": "BioVLAB-TCGA-BRCA",
+		"name": "BRCA-Pathway",
 		"image": "tcga.PNG",
 		"url": "http://tcga-brca.bhi2.snu.ac.kr/",
 		"date": "Feb 2017",
 		"desc": "Web based TCGA Omics Data Mapping System on KEGG pathways",
-		"tags": ["Epigenomics","Pathway"]
+		"tags": ["Genomics","Pathway"]
 	},
 	{
 		"name": "In Silico experiment tool",
