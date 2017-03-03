@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Youngjune Park"
-type: ms
+type: phd
 tag: "Park Y"
 img: "youngjune_park.jpg"
 contact: "-"
