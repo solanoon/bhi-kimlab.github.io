@@ -13,7 +13,7 @@ permalink: /contact/
 <h3>Address</h3>
 301-553, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
 <ul>
-  <li>Student Room (301): 301동 553호</li>
+  <li>Student Room (301): 301동 516호</li>
   <li>Student Room (220-1): 220동 653호</li>
   <li>Student Room (220-2): 220동 651호</li>
   <li>Office Room: 220동 641</li>
