@@ -1,13 +1,18 @@
 {
   "international": [
   {
+    "title": "Oh M, Rhee S, Moon JH, Chae H, Lee S, Kang J, Kim S, Literature-based condition-specific miRNA-mRNA target prediction. PLoS ONE. 2017 Mar 31",
+    "year": 2017,
+    "author": "Oh M, Rhee S, Moon JH, Chae H, Kim S"
+  },
+  {
     "title": "Rhee S, Lim S, Kim S, Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer. International Journal of Data Mining and Bioinformatics",
     "year": "in press",
     "author": "Rhee S, Lim S, Kim S"
   },  
   {
     "title": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. BMC Systems Biology. 2017 Mar 14",
-    "year": "2017",
+    "year": 2017,
     "author": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S"
   },
   {
@@ -373,8 +378,18 @@
 
   "conference": [
   {
+    "title": "Ahn H, Chae H, Kim S, Integration of heterogeneous time series gene expression data by clustering on time dimension, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp 2017)",
+    "year" : 2017,
+    "author": "Ahn HR, Chae H, Kim S"
+  },
+  {
+    "title": "Lee S, Moon JH, Park Y, Kim S, Flow maximization analysis of cell cycle pathway activation status in breast cancer subtypes, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp 2017)",
+    "year" : 2017,
+    "author": "Lee S, Moon JH, Park Y, Kim S"
+  },
+  {
     "title": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. Asia Pacific Bioinformatics Conference (APBC 2017), Shenzhen, China",
-    "year": "2017",
+    "year": 2017,
     "author": "Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S"
   },   
   {
