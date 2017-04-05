@@ -1,5 +1,13 @@
 [
 	{
+		"name": "MIDAS",
+		"image": "midas.png",
+		"url": "http://epigenomics.snu.ac.kr/MIDAS/",
+		"date": "April 2017",
+		"desc": "MIning Differentially Activated Subpaths of KEGG pathways from multi-class RNA-seq data",
+		"tags": ["Genomics","Pathway"]
+	},
+	{
 		"name": "BRCA-Pathway",
 		"image": "tcga.png",
 		"url": "http://tcga-brca.bhi2.snu.ac.kr/",
