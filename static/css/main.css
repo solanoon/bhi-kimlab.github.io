@@ -288,7 +288,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 
 .member_img { margin-bottom: 20px; border-radius: 5px; background-image: url(../img/member/unknown.png); }
 .member_img .active_img { max-width: 100%; min-width: 100%; }
-.member_desc { color:#666; font-size: 13pt; margin-bottom: 20px; }
+.member_desc { color:#666; font-size: 11pt; margin-bottom: 20px; }
 .member_desc .name a { color:#333; font-size: 15pt; font-weight: bold; }
 .member_desc .name a:hover { color:#008896; }
 

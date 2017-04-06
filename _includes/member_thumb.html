@@ -13,8 +13,7 @@
       </div>
       {% endif %}
       <div class="member_desc"><span class="name"><a href="..{{ member.url }}">{{ member.title }}</a></span></div>
-      <div class="member_desc">{{ member.contact }}</div>
-      <div class="member_desc">{{ member.summary }}</div>
+      <div class="member_desc">{{ member.contact }}<br>{{ member.summary }}</div>
     </div>
     {% assign idx=idx | plus:1 %}
     {% assign mo= idx|modulo:6 %}
