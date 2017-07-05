@@ -1,6 +1,16 @@
 {
   "international": [
   {
+    "title": "Ahn, Hongryul, et al. \"Transcriptional Network Analysis Reveals Drought Resistance Mechanisms of AP2/ERF Transgenic Rice.\" Frontiers in Plant Science 8 (2017).",
+    "year": 2017,
+    "author": "Ahn H, Jung I, Shin SJ, Park J, Rhee S, Kim JK, Jung W, Kwon HB, Kim S"
+  },
+  {
+    "title": "Lee, Sangseon, Youngjune Park, and Sun Kim. \"MIDAS: MIning Differentially Activated Subpaths of KEGG pathways from multi-class RNA-seq data.\" Methods (2017).",
+    "year": 2017,
+    "author": "Lee S, Park Y, Kim S"
+  },
+  {
     "title": "Oh M, Rhee S, Moon JH, Chae H, Lee S, Kang J, Kim S, Literature-based condition-specific miRNA-mRNA target prediction. PLoS ONE. 2017 Mar 31",
     "year": 2017,
     "author": "Oh M, Rhee S, Moon JH, Chae H, Kim S"
