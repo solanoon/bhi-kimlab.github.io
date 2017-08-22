@@ -1,6 +1,6 @@
 ---
 layout: profile
 title:  "Taeheon Lee"
-type: phd
+type: msphd
 tag: "Lee TH"
 ---
