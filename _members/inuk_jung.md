@@ -4,7 +4,7 @@ title:  "Inuk Jung"
 type: alumni
 tag: "Jung I"
 img: "inuk_jung.jpg"
-summary: "Ph.D at BHI Lab"
+summary: "Ph.D at SNU BHI Lab"
 contact: "-"
 ---
-Ph.D at BHI Lab ~ August 2017
+Ph.D at SNU BHI Lab ~ August 2017
