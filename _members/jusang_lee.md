@@ -1,7 +1,8 @@
 ---
 layout: profile
 title:  "Jusang Lee"
-type: msphd
+type: alumni
 tag: "Lee JS"
 contact: "co9901@snu.ac.kr"
+summary: "TmaxSoft"
 ---
