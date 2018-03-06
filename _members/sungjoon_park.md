@@ -1,6 +1,7 @@
 ---
 layout: profile
 title:  "Seongjun Park"
-type: intern
+type: msphd
 tag: "Park SJ"
+contact: "-"
 ---

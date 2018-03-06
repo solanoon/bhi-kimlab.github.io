@@ -1,6 +1,7 @@
 ---
 layout: profile
 title:  "Beatriz Santos Buitrago"
-type: ms
+type: alumni
 tag: "Beatriz"
+summary: "Amazon"
 ---
