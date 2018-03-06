@@ -1,7 +1,8 @@
 [
+  { "img": "Members_2018.jpg", "desc": "2018 BHI Lab Members" },
   { "img": "Members_2017.jpg", "desc": "2017 BHI Lab Members" },
   { "img": "Members_2016.jpg", "desc": "2016 BHI Lab Members" },
   { "img": "Members_2015.jpg", "desc": "2015 BHI Lab Members" },
   { "img": "Members_2014.jpg", "desc": "2014 BHI Lab Members" },
-  { "img": "Members_2012.jpg", "desc": "2012 BHI Lab Members" },
+  { "img": "Members_2012.jpg", "desc": "2012 BHI Lab Members" }
 ]
