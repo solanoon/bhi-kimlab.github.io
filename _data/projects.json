@@ -1,5 +1,13 @@
 [
 	{
+		"name": "HeteroTimeDEG",
+		"image": "hetero.png",
+		"url": "http://epigenomics.snu.ac.kr/HeteroTimeDEG/",
+		"date": "2018",
+		"desc": "Tools for Integrating Heterogenous Multiple Time-series Data to Investigate Stress Response Signaling",
+		"tags": ["Time-series", "DEG"]
+	},
+	{
 		"name": "MIDAS",
 		"image": "midas.png",
 		"url": "http://epigenomics.snu.ac.kr/MIDAS/",
@@ -20,8 +28,7 @@
 		"image": "insilico.png",
 		"url": "http://epigenomics.snu.ac.kr:9090/",
 		"date": "Feb 2017",
-    "desc": "In Silico experiment with three-level network Tool for User given Hypothesis of KO mouse<br>\
-    The online instant hypothesis web analyzer in slilico experiment tool.",
+    "desc": "In Silico experiment with three-level network Tool for User given Hypothesis of KO mouse<br>The online instant hypothesis web analyzer in slilico experiment tool.",
 		"tags": ["Epigenomics","Network"]
 	},
 	{
@@ -45,8 +52,7 @@
 		"image": "TimeTP.PNG",
 		"url": "http://epigenomics.snu.ac.kr/TimeTP/index.html#loaded",
 		"date": "2016",
-    "desc": "Influence maximization in time bounded network\
-    identifies transcription factors regulating perturbed pathways",
+    "desc": "Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways",
 		"tags": ["Time-series", "Network"]
 	},
 	{

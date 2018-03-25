@@ -1,6 +1,16 @@
 {
   "international": [
   {
+    "title": "Jung I, Kang H, K JU, Chang H, Kim S, Jung W, The mRNA and miRNA transcriptomic landscape of Panax ginseng under the high ambient temperature, BMC Systems Biology. 2018 March 19.",
+    "year": 2018,
+    "author": "Jung I, Kang H, K JU, Chang H, Kim S, Jung W"
+  },
+  {
+    "title": "Kim I, Choi S, Kim S, BRCA-Pathway: a structural integration and visualization system of TCGA breast cancer data on KEGG pathways. BMC Bioinformatics. 2018 Feb 19.",
+    "year": 2018,
+    "author": "Kim I, Choi S, Kim S"
+  },
+  {
     "title": "L'Yi S, Jung D, Oh M, Kim B, Freishtat RJ, Giri M, Hoffman E, Seo J. miRTarVis+: Web-based interactive visual analytics tool for microRNA target predictions. Methods. 2017 July 15",
     "year": 2017,
     "author": "L'Yi S, Jung D, Oh M, Kim B, Freishtat RJ, Giri M, Hoffman E, Seo J"
@@ -35,6 +45,11 @@
     "title": "Jung I, Jo K, Kang H, Ahn H, Yu Y, Kim S, TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes. Bioinformatics. 2017 Jan 17. [Epub ahead of print]",
     "year": 2017,
     "author": "Jung I, Jo K, Kang H, Ahn HR, Kim S"
+  },
+  {
+    "title": "Shin SJ, Ahn H, Jung I, Rhee S, Kim S, Kwon HB, Novel drought-responsive regulatory coding and non-coding transcripts from Oryza Sativa L. Genes & Genomics. 2016 June 9.",
+    "year": 2016,
+    "author": "Shin SJ, Ahn H, Jung I, Rhee S, Kim S, Kwon HB"
   },
   {
     "title": "Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. BMC Systems Biology, 2016 Dec 23",
@@ -609,26 +624,41 @@
 
 
   "domestic": [
-  {
-    "title": "강혜진, 정인욱, 정우석, 김선. Spherical vector clustering 기법과 Support Vector Machine을 이용한 한발관련 표현형이 다른 벼의 복수 시계열 Next Generation Sequencing 테이터의 분석, 한국정보과학회 2015년 동계학술발표회 논문집, Vol.2015, pp.651-653.",
-    "year": 2015,
-    "author": "Kang H, Jung I, Jung W, Kim S",
-  },
-  {
-    "title": "강동원, 안홍렬, 정우석, 김선. 이질적 시계열 유전자 발현 데이터의 통합 분석 문제의 정의 및 애기장대에서의 저온 스트레스 반응 유전자 검출 알고리즘 개발, 한국정보과학회 2015년 동계학술발표회 논문집, Vol.2015, No.12, pp.648-650.",
-    "year": 2015,
-    "author": "Kang D, Ahn HR, Jung W, Kim S",
-  },
-  {
-    "title": "조겨리, 김선. 네트워크를 이용한 시계열 유전체 분석 기법의 연구 동향, 정보과학회지, Vol.32, No. 10, 2014년 10월, pp.22-27.",
-    "year": 2014,
-    "author": "Jeo K, Kim S",
-  },
-  {
-    "title": "서석준, 오민식, 정인욱, 채희준, 김선. BioVLAB-클라우드 기반의 생물정보학 분석 시스템, 정보과학회지, Vol.31, No.3, 2013년 3월, pp.108-114.",
-    "year": 2013,
-    "author": "Seo S, Oh M, Jung I, Chae H, Kim S",
-  },
+    {
+      "title": "안용주, 김선. 딥러닝 기반의 DNA 서열 자기참조 모델링을 이용한 전사인자-DNA 결합 친화도 예측, 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집, Vol.2017, pp.939-941.",
+      "year": 2017,
+      "author": "Ahn YJ, Kim S"
+    },
+    {
+      "title": "손승현, 안홍렬, 김선. 딥러닝을 통한 유전자 온톨로지 거리의 추론, 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집, Vol.2017, pp.994-956.",
+      "year": 2017,
+      "author": "Son SH, Ahn HR, Kim S"
+    },
+    {
+      "title": "임애란, 강혜진, 김선. 히스톤 변이 마크를 이용한 인핸서 영역 분류 순환 신경 망 모델, 2017년 한국컴퓨터종합학술대회 논문집, Vol.2017, pp.966-968.",
+      "year": 2017,
+      "author": "Lim AR, Kang HJ, Kim S"
+    },
+    {
+      "title": "강혜진, 정인욱, 정우석, 김선. Spherical vector clustering 기법과 Support Vector Machine을 이용한 한발관련 표현형이 다른 벼의 복수 시계열 Next Generation Sequencing 테이터의 분석, 한국정보과학회 2015년 동계학술발표회 논문집, Vol.2015, pp.651-653.",
+      "year": 2015,
+      "author": "Kang H, Jung I, Jung W, Kim S"
+    },
+    {
+      "title": "강동원, 안홍렬, 정우석, 김선. 이질적 시계열 유전자 발현 데이터의 통합 분석 문제의 정의 및 애기장대에서의 저온 스트레스 반응 유전자 검출 알고리즘 개발, 한국정보과학회 2015년 동계학술발표회 논문집, Vol.2015, No.12, pp.648-650.",
+      "year": 2015,
+      "author": "Kang D, Ahn HR, Jung W, Kim S"
+    },
+    {
+      "title": "조겨리, 김선. 네트워크를 이용한 시계열 유전체 분석 기법의 연구 동향, 정보과학회지, Vol.32, No. 10, 2014년 10월, pp.22-27.",
+      "year": 2014,
+      "author": "Jeo K, Kim S"
+    },
+    {
+      "title": "서석준, 오민식, 정인욱, 채희준, 김선. BioVLAB-클라우드 기반의 생물정보학 분석 시스템, 정보과학회지, Vol.31, No.3, 2013년 3월, pp.108-114.",
+      "year": 2013,
+      "author": "Seo S, Oh M, Jung I, Chae H, Kim S"
+    }
   ],
 
 
