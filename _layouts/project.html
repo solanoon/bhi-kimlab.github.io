@@ -8,7 +8,7 @@ layout: default
 
     <div class="projects row">
     {% for i in site.data.projects %}
-    <div class="project-item col-md-12 col-sm-12 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
+    <div id="{{ i.name }}" class="project-item col-md-12 col-sm-12 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
     			<div class="col-sm-4"><a href="{{ site.baseurl }}/static/img/projects/{{ i.image }}" class="thickbox">

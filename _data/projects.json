@@ -1,11 +1,11 @@
 [
 	{
-		"name": "HeteroTimeDEG",
+		"name": "HTRgene",
 		"image": "hetero.png",
-		"url": "http://epigenomics.snu.ac.kr/HeteroTimeDEG/",
+		"url": "http://epigenomics.snu.ac.kr/HTRgene/",
 		"date": "2018",
-		"desc": "Tools for Integrating Heterogenous Multiple Time-series Data to Investigate Stress Response Signaling",
-		"tags": ["Time-series", "DEG"]
+		"desc": "Tools for Integrating Heterogenous Multiple Time-series Data to Investigate Stress Response Gene and Signaling",
+		"tags": ["Time-series", "Intergation"]
 	},
 	{
 		"name": "MIDAS",
