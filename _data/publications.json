@@ -1,7 +1,22 @@
 {
   "international": [
   {
-    "title": "Jung I, Kang H, K JU, Chang H, Kim S, Jung W, The mRNA and miRNA transcriptomic landscape of Panax ginseng under the high ambient temperature, BMC Systems Biology. 2018 March 19.",
+    "title": "Seo S, Oh M, Park Y, Kim S. Deep learning based alignment-free method for protein family modeling and prediction. International Society for Computational Biology. 2018 July.(accepted)",
+    "year": 2018,
+    "author": "Seo S, Oh M, Park Y, Kim S"
+  }, 
+  {
+    "title": "Rhee S, Seo S, Kim S. Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification. International Joint Conference on Artificial Intelligence. 2018 July.(accepted)",
+    "year": 2018,
+    "author": "Rhee S, Seo S, Kim S"
+  }, 
+  {
+    "title": "Lee CJ, Kang D, Lee S, Lee S, Kang J, Kim S. In silico experiment system for testing hypothesis on gene functions using three condition specific biological networks. Methods. 2018 May 11.",
+    "year": 2018,
+    "author": "Lee CJ, Kang D, Lee S, Lee S, Kang J, Kim S"
+  }, 
+  {
+    "title": "Jung I, Kang H, K JU, Chang H, Kim S, Jung W. The mRNA and miRNA transcriptomic landscape of Panax ginseng under the high ambient temperature. BMC Systems Biology. 2018 March 19.",
     "year": 2018,
     "author": "Jung I, Kang H, K JU, Chang H, Kim S, Jung W"
   },
