@@ -7,4 +7,4 @@ img: "inuk_jung.jpg"
 summary: "Ph.D at SNU BHI Lab"
 contact: "-"
 ---
-Ph.D at SNU BHI Lab ~ August 2017
+Postdoctoral fellow at SNU BHI Lab ~ August 2017
