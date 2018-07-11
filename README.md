@@ -53,6 +53,9 @@ Edited by Dongwon Kang, Original skin: HCZ Material theme
 * Create file at `_posts` directory.
   - file name must be `(year)-(month)-(day)-(name).md`
 
+### Popup
+* You can display popup in main page by modifying end of the `index.html` file.
+
 ## Using Git
 
 * First, clone files from repository (of course, you should have git account)
@@ -70,3 +73,7 @@ git push origin master
 * After your modification end, merge it into master branch. then biohealth server will automatically reflect your editing.
 
 * I suggest modifying in another branch, not directly pushing directly in `master` branch.
+
+## Uploading resources
+You can upload resource(image, js, css) file in `static` folder, and it can be used like this: `<img src="{{ site.baseurl }    }/static/img/preview.jpg">`
+
