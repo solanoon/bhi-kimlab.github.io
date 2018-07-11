@@ -94,7 +94,8 @@ bodyclass: "body_intro"
 <script src="{{ site.baseurl }}/static/js/jquery.smartPop.js"></script>
 <link rel="stylesheet" href="{{ site.baseurl }}/static/css/jquery.smartPop.css" />
 <script type="text/javascript">
+window.smartPop = $.smartPop;
 $(function() {
-    $.smartPop.open({ width: 600, height: 600, html: '<a href="http://aisociety.kr/ai2018/" target="_blank"><img src="{{ site.baseurl }}/static/js/AIKorea.jpg" /></a>' });
+    window.smartPop.open({ width: 600, height: 600, html: '<a href="http://aisociety.kr/ai2018/" target="_blank"><img src="{{ site.baseurl }}/static/img/AIKorea.jpg" width="100%" /></a>' });
 });
 </script>
