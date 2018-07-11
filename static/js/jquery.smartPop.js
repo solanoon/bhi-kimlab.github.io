@@ -57,7 +57,8 @@
  */
     
 ;(function($) {
-    var ie6     = $.browser.msie && ($.browser.version < 8);
+    // $.browser is depreciated. don't support ie6
+    var ie6     = false;    //$.browser.msie && ($.browser.version < 8);
     var innerH  = window.innerHeight;
     
     $.smartPop = {
