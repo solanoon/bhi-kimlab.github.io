@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Dongwon Kang"
-type: ms
+type: alumni
 contact: "kgdgwn98 at gmail"
 tag: "Kang D"
 img: dongwon_kang.jpg

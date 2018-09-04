@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: "Lu Yijingxiu"
-type: Intern
+type: msphd
 tag: "Lu Y"
 contact: "solanoon0113@gmail.com"
 ---
