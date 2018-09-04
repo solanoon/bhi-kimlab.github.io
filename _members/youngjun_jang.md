@@ -1,6 +1,6 @@
 ---
 layout: profile
 title:  "Youngjun Jang"
-type: phd
+type: alumni
 tag: "Jang YJ"
 ---
