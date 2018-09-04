@@ -84,3 +84,18 @@ bodyclass: "body_intro"
     </div>
   </div>
 </div><!-- end #home -->
+<!--
+  popup page
+  If you want to disable popup,
+  comment under these line
+  @dw
+-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/static/js/jquery.smartPop.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/static/css/jquery.smartPop.css" />
+<script type="text/javascript">
+window.smartPop = $.smartPop;
+$(function() {
+    window.smartPop.open({ width: 600, height: 600, html: '<a href="http://aisociety.kr/ai2018/" target="_blank"><img src="{{ site.baseurl }}/static/img/AIKorea.jpg" width="100%" /></a>' });
+});
+</script>

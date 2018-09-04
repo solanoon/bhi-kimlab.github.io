@@ -1,6 +1,6 @@
 ---
 layout: profile
 title:  "Saemi Choi"
-type: msphd
+type: alumni
 tag: "Choi SM"
 ---
