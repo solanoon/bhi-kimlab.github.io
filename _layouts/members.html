@@ -7,6 +7,7 @@ layout: default
   {% endif %}
 
   {% assign profs=site.members | where:"type","prof" %}
+  {% assign postd=site.members | where:"type","postd" %}
   {% assign msphd=site.members | where:"type","msphd" %}
   {% assign phd=site.members | where:"type","phd" %}
   {% assign ms=site.members | where:"type","ms" %}
@@ -34,6 +35,7 @@ layout: default
   {% endfor %}
   
   <!-- members -->
+  {% include member_thumb.html name="Postdoc" members=postd img=true %}
   {% include member_thumb.html name="Ph.D" members=phd img=true %}
   {% include member_thumb.html name="MS &amp; Ph.D" members=msphd img=true %}
   {% include member_thumb.html name="MS" members=ms img=true %}
