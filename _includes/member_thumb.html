@@ -7,9 +7,13 @@
       {% assign member_img="unknown.png" %}
       {% if member.img %}{% assign member_img=member.img %}{% endif %}
       <div class="bg-cover member_img" style="background-image: url({{ site.baseurl }}/static/img/member/{{ member_img }}) !important; background-size: 100%; background-size: cover;">
+        {% if member.img == "kyuri_jo.jpg" %}
+        <a class="" href="http://kyurijo.github.io" target="_blank">
+        <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png"></a>
+        {% else %}  
         <a class="" href="..{{ member.url }}">
-        <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png">
-        </a>
+        <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png"></a>
+        {% endif %} 
       </div>
       {% endif %}
       {% if member.title == "Kyuri Jo" %}
