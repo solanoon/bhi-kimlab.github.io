@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Kyuri Jo"
-type: msphd
+type: postd
 tag: "Jo K"
 contact: "keialk@snu.ac.kr"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: profile
-title:  "Seongjun Park"
+title:  "Sungjoon Park"
 type: msphd
 tag: "Park SJ"
 contact: "-"

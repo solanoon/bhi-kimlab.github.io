@@ -12,7 +12,11 @@
         </a>
       </div>
       {% endif %}
+      {% if member.title == "Kyuri Jo" %}
+      <div class="member_desc"><span class="name"><a href="http://kyurijo.github.io" target="_blank">{{ member.title }}</a></span></div>
+      {% else %}  
       <div class="member_desc"><span class="name"><a href="..{{ member.url }}">{{ member.title }}</a></span></div>
+      {% endif %}        
       <div class="member_desc">{{ member.contact }}<br>{{ member.summary }}</div>
     </div>
     {% assign idx=idx | plus:1 %}
