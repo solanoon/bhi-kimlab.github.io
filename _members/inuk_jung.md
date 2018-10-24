@@ -5,6 +5,6 @@ type: postd
 tag: "Jung I"
 img: "inuk_jung.jpg"
 summary: "Postdoctoral fellow at SNU BHI Lab"
-contact: "-"
+contact: "inukjung@snu.ac.kr"
 ---
-Postdoctoral fellow at SNU BHI Lab ~ August 2017
+Postdoctoral Research Fellow at SNU BHI Lab ~ August 2017
