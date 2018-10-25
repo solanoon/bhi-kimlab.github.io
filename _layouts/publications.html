@@ -16,10 +16,10 @@ layout: page_nav
         <h3 class="title" id="{{ objid }}">{{ name }}</h3>
       </div>
       <!-- introduction_publication section start -->
-      {% assign pubs_introduction=publications | group_by:"introduction" %}
-      {% for pubs in pubs_introduction %}
-        <div class="title_pub_wrapper">
-          <h4 class="title_pub" id="{{ pubs.name | prepend: objid }}">{{ pubs.name | slugify }}</h4>
+      {% assign pubs_introduction=publications | group_by:"desc" %}
+      {% for d in pubs_introduction %}
+        <div class="desc">
+        {{ d.desc }}
         </div>
       {% endfor %}
       <!-- year_publication section start -->
