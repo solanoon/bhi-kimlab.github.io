@@ -40,12 +40,6 @@ navs: [
   {
     "name": "Conference",
     "id": "conference",
-    "children": [
-      {
-        "name": no update since many conference papers are published in journals,
-        "id": "noupdate",
-      },
-    ]
   },
   {
     "name": "Domestic",
