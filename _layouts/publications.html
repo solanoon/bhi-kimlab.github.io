@@ -15,13 +15,6 @@ layout: page_nav
       <div class="title_wrapper">
         <h3 class="title" id="{{ objid }}">{{ name }}</h3>
       </div>
-      <!-- introduction_publication section start -->
-      {% assign pubs_introduction=publications | group_by:"desc" %}
-      {% for d in pubs_introduction %}
-        <div class="desc">
-        {{ d.desc }}
-        </div>
-      {% endfor %}
       <!-- year_publication section start -->
       {% assign pubs_year=publications | group_by:"year" %}
       {% for pubs in pubs_year %}
