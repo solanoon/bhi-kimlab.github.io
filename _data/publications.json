@@ -424,9 +424,6 @@
 
   "conference": [
   {
-    "desc": "no update since many conference papers are published in journals",
-  },
-  {
     "title": "Ahn H, Chae H, Kim S, Integration of heterogeneous time series gene expression data by clustering on time dimension, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp 2017)",
     "year" : 2017,
     "author": "Ahn HR, Chae H, Kim S"
