@@ -10,6 +10,9 @@
         {% if member.img == "kyuri_jo.jpg" %}
         <a class="" href="http://kyurijo.github.io" target="_blank">
         <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png"></a>
+        {% elsif member.img == "inuk_jung.jpg" %}
+        <a class="" href="http://inukj.github.io/online-cv/" target="_blank">
+        <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png"></a>
         {% else %}  
         <a class="" href="..{{ member.url }}">
         <img class="active_img" src="{{ site.baseurl }}/static/img/transparent.png"></a>
@@ -18,6 +21,8 @@
       {% endif %}
       {% if member.title == "Kyuri Jo" %}
       <div class="member_desc"><span class="name"><a href="http://kyurijo.github.io" target="_blank">{{ member.title }}</a></span></div>
+      {% elsif member.title == "Inuk Jung" %}
+      <div class="member_desc"><span class="name"><a href="http://inukj.github.io/online-cv/" target="_blank">{{ member.title }}</a></span></div>
       {% else %}  
       <div class="member_desc"><span class="name"><a href="..{{ member.url }}">{{ member.title }}</a></span></div>
       {% endif %}        

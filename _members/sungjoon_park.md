@@ -3,5 +3,6 @@ layout: profile
 title:  "Sungjoon Park"
 type: msphd
 tag: "Park SJ"
-contact: "-"
+img: "sungjoon_park.jpg"
+contact: "stj@snu.ac.kr"
 ---
